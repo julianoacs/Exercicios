@@ -3,7 +3,7 @@
 **PASSO 01 - SEQUÊNCIAS BÁSICAS**
 
 1. Write a program that displays the message "Hello, World!"
-    * [Code](https://github.com/julianoacs/100_Exercises/blob/main/001/src/pkg001/Main.java)   
+    * [Code](https://github.com/julianoacs/100_Exercises/blob/main/100%20Exercises/001/src/pkg001/Main.java)   
 2. Write a program that reads a person's name and displays a welcome message.
 Welcome to her: Ex: What's your name? João da Silva, Hello João da Silva, nice to meet you!
     * [Code](https://github.com/julianoacs/100_Exercises/blob/main/100%20Exercises/002/src/pkg002/Main.java)
