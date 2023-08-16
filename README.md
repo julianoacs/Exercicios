@@ -7,14 +7,8 @@
 2. Write a program that reads a person's name and displays a welcome message.
 Welcome to her: Ex: What's your name? João da Silva, Hello João da Silva, nice to meet you!
     * [Code](https://github.com/julianoacs/100_Exercises/blob/main/100%20Exercises/002/src/pkg002/Main.java)
-   
 
-4) Crie um programa que leia o nome e o salário de um funcionário, mostrando no
-final uma mensagem.
-Ex:
-Nome do Funcionário: Maria do Carmo
-Salário: 1850,45
-O funcionário Maria do Carmo tem um salário de R$1850,45 em Junho.
+3. Create a program that reads the name and salary of an employee, showing a message at the end. Ex: Employee Name: Maria do Carmo Salary: 1850,45 The employee Maria do Carmo has a salary of $1850,45 in June.
 
 5) Desenvolva um algoritmo que leia dois números inteiros e mostre o somatório
 entre eles.
