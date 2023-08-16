@@ -2,14 +2,12 @@
  
 **PASSO 01 - SEQUÊNCIAS BÁSICAS**
 
-1. Escreva um programa que mostre na tela a mensagem "Hello, World!"
-   * [Código](https://github.com/julianoacs/100_Exercises/blob/main/001/src/pkg001/Main.java)
-  
-3) Faça um programa que leia o nome de uma pessoa e mostre uma mensagem de boas-
-vindas para ela:
-Ex:
-Qual é o seu nome? João da Silva
-Olá João da Silva, é um prazer te conhecer!
+1. Write a program that displays the message "Hello, World!"
+    * [Code](https://github.com/julianoacs/100_Exercises/blob/main/001/src/pkg001/Main.java)   
+2. Write a program that reads a person's name and displays a welcome message.
+Welcome to her: Ex: What's your name? João da Silva, Hello João da Silva, nice to meet you!
+    * [Code](https://github.com/julianoacs/100_Exercises/blob/main/100%20Exercises/002/src/pkg002/Main.java)
+   
 
 4) Crie um programa que leia o nome e o salário de um funcionário, mostrando no
 final uma mensagem.
