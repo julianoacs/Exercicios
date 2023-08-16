@@ -2,7 +2,7 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Main.java to edit this template
  */
-package pkg002;
+package pkg003;
 
 import java.util.Scanner;
 
@@ -19,10 +19,13 @@ public class Main {
     
     public static void main(String[] args) {
         // TODO code application logic here
-        Scanner keyboard = new Scanner(System.in);
-        System.out.println("Type your name:");
+        Scanner keyboard = new Scanner (System.in);
+        System.out.println("Type your name: ");
         String name = keyboard.nextLine();
-        System.out.println("Hello " + name +" Nice to meet you!");
+        System.out.println("Type your Salary: ");
+        float salary = keyboard.nextFloat();
+        System.out.println("The employee " + name + " will received the salary of $" + salary +" Dollars");
+        
     }
     
 }
