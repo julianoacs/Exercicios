@@ -1,6 +1,6 @@
-### Lista de exercicos de Lógica de programção, adaptados para JAVA
+### List of programming logic exercises, adapted for JAVA
  
-**PASSO 01 - SEQUÊNCIAS BÁSICAS**
+**STEP 01 - BASIC SEQUENCES**
 
 1. Write a program that displays the message "Hello, World!"
     * [Code](https://github.com/julianoacs/100_Exercises/blob/main/100%20Exercises/001/src/pkg001/Main.java)   
