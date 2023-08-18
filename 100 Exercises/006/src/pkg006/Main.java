@@ -2,7 +2,9 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Main.java to edit this template
  */
-package pkg001;
+package pkg006;
+
+import java.util.Scanner;
 
 /**
  *
@@ -17,7 +19,12 @@ public class Main {
     
     public static void main(String[] args) {
         // TODO code application logic here
-        System.out.println("Hello, World!");
+        Scanner keyboard = new Scanner (System.in);
+        System.out.println("Write a number: ");
+        int number = keyboard.nextInt();
+        int suc = number + 1;
+        int pre = number - 1;
+        System.out.println("The successor number is " + suc + " and the predecessor is " + pre);
     }
     
 }
