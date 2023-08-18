@@ -1,44 +1,35 @@
 ### List of programming logic exercises, adapted for JAVA
  
 **STEP 01 - BASIC SEQUENCES**
+<dl>
+<dt>001 - Escreva um programa que exiba a mensagem "Hello, World!"</dt>
+<dd><a href="https://github.com/julianoacs/100_Exercises/blob/main/100%20Exercises/001/src/pkg001/Main.java">Code</a></dd>
 
-1. Write a program that displays the message "Hello, World!"
-    * [Code](https://github.com/julianoacs/100_Exercises/blob/main/100%20Exercises/001/src/pkg001/Main.java)   
-2. Write a program that reads a person's name and displays a welcome message.
-Welcome to her: Ex: What's your name? João da Silva, Hello João da Silva, nice to meet you!
-    * [Code](https://github.com/julianoacs/100_Exercises/blob/main/100%20Exercises/002/src/pkg002/Main.java)
-3. Create a program that reads the name and salary of an employee, showing a message at the end. Ex: Employee Name: Maria do Carmo Salary: 1850,45 The employee Maria do Carmo has a salary of $1850,45 in June.
-    * [Code](https://github.com/julianoacs/100_Exercises/blob/main/100%20Exercises/003/src/pkg003/Main.java)
+<dt>002 - Escreva um programa que leia o nome de uma pessoa e exiba uma mensagem de boas-vindas. Bem-vindo a ela: Ex: Qual é o seu nome? João da Silva, Olá João da Silva, muito prazer!</dt>
+<dd><a href="https://github.com/julianoacs/100_Exercises/blob/main/100%20Exercises/002/src/pkg002/Main.java">Code</a></dd>
 
-5) Desenvolva um algoritmo que leia dois números inteiros e mostre o somatório
-entre eles.
-Ex:
-Digite um valor: 8
-Digite outro valor: 5
-A soma entre 8 e 5 é igual a 13.
+<dt>003 - Crie um programa que leia o nome e o salário de um funcionário, mostrando uma mensagem ao final. Ex: Nome da Funcionária: Maria do Carmo Salário: 1850,45 A funcionária Maria do Carmo tem um salário de $1850,45 em junho.</dt>
+<dd><a href="https://github.com/julianoacs/100_Exercises/blob/main/100%20Exercises/003/src/pkg003/Main.java">Code</a></dd>
 
-6) Faça um programa que leia as duas notas de um aluno em uma matéria e mostre
-na tela a sua média na disciplina.
-Ex:
-Nota 1: 4.5
-Nota 2: 8.5
-A média entre 4.5 e 8.5 é igual a 6.5
+<dt>004 - Desenvolva um algoritmo que leia dois números inteiros e imprima a soma entre eles. Ex: Digite um valor: 8 / Digite outro valor: 5 / A soma de 8 e 5 é igual a 13.</dt>
+<dd><a href="https://github.com/julianoacs/100_Exercises/blob/main/100%20Exercises/004/src/pkg004/Main.java">Code</a></dd>
 
-7) Faça um programa que leia um número inteiro e mostre o seu antecessor e seu
-sucessor.
-Ex:
-Digite um número: 9
-O antecessor de 9 é 8
-O sucessor de 9 é 10
+<dt>005 - Faça um programa que leia as duas notas de um aluno em uma matéria e mostrena tela a sua média na disciplina.
+Ex:Nota 1: 4.5  / Nota 2: 8.5 / A média entre 4.5 e 8.5 é igual a 6.5</dt>
+<dd><a href="https://github.com/julianoacs/100_Exercises/blob/main/100%20Exercises/005/src/pkg005/Main.java">Code</a></dd>
 
-8) Crie um algoritmo que leia um número real e mostre na tela o seu dobro e a
-sua terça parte.
-Ex:
-Digite um número: 3.5
-O dobro de 3.5 é 7.0
-A terça parte de 3.5 é 1.16666
+<dt>006 - Faça um programa que leia um número inteiro e mostre o seu antecessor e seu sucessor.
+Ex: Digite um número: 9 / O antecessor de 9 é 8 / O sucessor de 9 é 10</dt>
+<dd><a href="https://github.com/julianoacs/100_Exercises/blob/main/100%20Exercises/006/src/pkg006/Main.java">Code</a></dd>
 
-9) Desenvolva um programa que leia uma distância em metros e mostre os valores
+<dt>007 - Crie um algoritmo que leia um número real e mostre na tela o seu dobro e a sua terça parte.
+Ex: Digite um número: 3.5 / O dobro de 3.5 é 7.0 / A terça parte de 3.5 é 1.16666 </dt>
+<dd><a href="https://github.com/julianoacs/100_Exercises/blob/main/100%20Exercises/007/src/pkg007/Main.java">Code</a></dd>
+
+</dl>
+
+
+10) Desenvolva um programa que leia uma distância em metros e mostre os valores
 relativos em outras medidas.
 Ex:
 Digite uma distância em metros: 185.72
