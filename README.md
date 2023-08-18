@@ -1,6 +1,11 @@
-### List of programming logic exercises, adapted for JAVA
- 
-**STEP 01 - BASIC SEQUENCES**
+<h3 align="center">List of programming logic exercises, adapted for JAVA</h3>
+
+<h4>PASSO 01 - SEQUÊNCIAS BÁSICAS</h4>
+
+001 - Escreva um programa que exiba a mensagem "Hello, World!"
+- [Code](https://github.com/julianoacs/100_Exercises/blob/main/100%20Exercises/001/src/pkg001/Main.java)
+
+
 <dl>
 <dt>001 - Escreva um programa que exiba a mensagem "Hello, World!"</dt>
 <dd><a href="https://github.com/julianoacs/100_Exercises/blob/main/100%20Exercises/001/src/pkg001/Main.java">Code</a></dd>
