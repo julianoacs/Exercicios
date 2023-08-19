@@ -1,34 +1,28 @@
 <h3 align="center">List of programming logic exercises, adapted for JAVA</h3>
 
-<h4>PASSO 01 - SEQUÊNCIAS BÁSICAS</h4>
-
-001 - Escreva um programa que exiba a mensagem "Hello, World!"
-- [Code](https://github.com/julianoacs/100_Exercises/blob/main/100%20Exercises/001/src/pkg001/Main.java)
-
+<h4 align="center">STEP 01 - BASIC SEQUENCES</h4>
 
 <dl>
-<dt>001 - Escreva um programa que exiba a mensagem "Hello, World!"</dt>
+<dt>001 - Write a program that displays the message "Hello, World!"</dt>
 <dd><a href="https://github.com/julianoacs/100_Exercises/blob/main/100%20Exercises/001/src/pkg001/Main.java">Code</a></dd>
 
-<dt>002 - Escreva um programa que leia o nome de uma pessoa e exiba uma mensagem de boas-vindas. Bem-vindo a ela: Ex: Qual é o seu nome? João da Silva, Olá João da Silva, muito prazer!</dt>
+<dt>002 - Write a program that reads a person's name and displays a welcome message. Welcome to her: Ex: What's your name? Joao da Silva, Hello Joao da Silva, nice to meet you!</dt>
 <dd><a href="https://github.com/julianoacs/100_Exercises/blob/main/100%20Exercises/002/src/pkg002/Main.java">Code</a></dd>
 
-<dt>003 - Crie um programa que leia o nome e o salário de um funcionário, mostrando uma mensagem ao final. Ex: Nome da Funcionária: Maria do Carmo Salário: 1850,45 A funcionária Maria do Carmo tem um salário de $1850,45 em junho.</dt>
+<dt>003 - Create a program that reads the name and salary of an employee and displays a message at the end.Ex: Employee Name: Maria do Carmo Salary: 1850.45 Maria do Carmo has a salary of $1850.45 in June.</dt>
 <dd><a href="https://github.com/julianoacs/100_Exercises/blob/main/100%20Exercises/003/src/pkg003/Main.java">Code</a></dd>
 
-<dt>004 - Desenvolva um algoritmo que leia dois números inteiros e imprima a soma entre eles. Ex: Digite um valor: 8 / Digite outro valor: 5 / A soma de 8 e 5 é igual a 13.</dt>
+<dt>004 - Develop an algorithm that reads two integers and prints the sum between them.Ex: Enter a value: 8 / Enter another value: 5 / The sum of 8 and 5 is equal to 13.</dt>
 <dd><a href="https://github.com/julianoacs/100_Exercises/blob/main/100%20Exercises/004/src/pkg004/Main.java">Code</a></dd>
 
-<dt>005 - Faça um programa que leia as duas notas de um aluno em uma matéria e mostrena tela a sua média na disciplina.
-Ex:Nota 1: 4.5  / Nota 2: 8.5 / A média entre 4.5 e 8.5 é igual a 6.5</dt>
+<dt>005 - Make a program that reads a student's two grades in a subject and displays their grade point average on the screen.
+Ex: Grade 1: 4.5 / Grade 2: 8.5 / The average between 4.5 and 8.5 is 6.5</dt>
 <dd><a href="https://github.com/julianoacs/100_Exercises/blob/main/100%20Exercises/005/src/pkg005/Main.java">Code</a></dd>
 
-<dt>006 - Faça um programa que leia um número inteiro e mostre o seu antecessor e seu sucessor.
-Ex: Digite um número: 9 / O antecessor de 9 é 8 / O sucessor de 9 é 10</dt>
+<dt>006 - Make a program that reads an integer and shows its predecessor and successor.Ex: Type a number: 9 / The predecessor of 9 is 8 / The successor of 9 is 10</dt>
 <dd><a href="https://github.com/julianoacs/100_Exercises/blob/main/100%20Exercises/006/src/pkg006/Main.java">Code</a></dd>
 
-<dt>007 - Crie um algoritmo que leia um número real e mostre na tela o seu dobro e a sua terça parte.
-Ex: Digite um número: 3.5 / O dobro de 3.5 é 7.0 / A terça parte de 3.5 é 1.16666 </dt>
+<dt>007 - Create an algorithm that reads a real number and displays its double and its third part on the screen.Ex: Enter a number: 3.5 / The double of 3.5 is 7.0 / The third part of 3.5 is 1.16666</dt>
 <dd><a href="https://github.com/julianoacs/100_Exercises/blob/main/100%20Exercises/007/src/pkg007/Main.java">Code</a></dd>
 
 </dl>
