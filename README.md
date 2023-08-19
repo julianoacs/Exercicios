@@ -2,30 +2,23 @@
 
 <h4 align="center">STEP 01 - BASIC SEQUENCES</h4>
 
-<dl>
-<dt>001 - Write a program that displays the message "Hello, World!"</dt>
-<dd><a href="https://github.com/julianoacs/100_Exercises/blob/main/100%20Exercises/001/src/pkg001/Main.java">Code</a></dd>
+- 001 - Write a program that displays the message "Hello, World!"
+  - [Code](https://github.com/julianoacs/100_Exercises/blob/main/100%20Exercises/001/src/pkg001/Main.java)
+- 002 - Write a program that reads a person's name and displays a welcome message. Welcome to her: Ex: What's your name? Joao da Silva, Hello Joao da Silva, nice to meet you!
+  - [Code](https://github.com/julianoacs/100_Exercises/blob/main/100%20Exercises/002/src/pkg002/Main.java)
+- 003 - Create a program that reads the name and salary of an employee and displays a message at the end.Ex: Employee Name: Maria do Carmo Salary: 1850.45 Maria do Carmo has a salary of $1850.45 in June.
+  - [Code](https://github.com/julianoacs/100_Exercises/blob/main/100%20Exercises/003/src/pkg003/Main.java)
+- 004 - Develop an algorithm that reads two integers and prints the sum between them.Ex: Enter a value: 8 / Enter another value: 5 / The sum of 8 and 5 is equal to 13.
+  - [Code](https://github.com/julianoacs/100_Exercises/blob/main/100%20Exercises/004/src/pkg004/Main.java)
+- 005 - Make a program that reads a student's two grades in a subject and displays their grade point average on the screen.
+Ex: Grade 1: 4.5 / Grade 2: 8.5 / The average between 4.5 and 8.5 is 6.5
+  - [Code](https://github.com/julianoacs/100_Exercises/blob/main/100%20Exercises/005/src/pkg005/Main.java)
+- 006 - Make a program that reads an integer and shows its predecessor and successor.Ex: Type a number: 9 / The predecessor of 9 is 8 / The successor of 9 is 10
+  - [Code](https://github.com/julianoacs/100_Exercises/blob/main/100%20Exercises/006/src/pkg006/Main.java)
+- 007 - Create an algorithm that reads a real number and displays its double and its third part on the screen.Ex: Enter a number: 3.5 / The double of 3.5 is 7.0 / The third part of 3.5 is 1.16666
+  - [Code](https://github.com/julianoacs/100_Exercises/blob/main/100%20Exercises/007/src/pkg007/Main.java)
 
-<dt>002 - Write a program that reads a person's name and displays a welcome message. Welcome to her: Ex: What's your name? Joao da Silva, Hello Joao da Silva, nice to meet you!</dt>
-<dd><a href="https://github.com/julianoacs/100_Exercises/blob/main/100%20Exercises/002/src/pkg002/Main.java">Code</a></dd>
 
-<dt>003 - Create a program that reads the name and salary of an employee and displays a message at the end.Ex: Employee Name: Maria do Carmo Salary: 1850.45 Maria do Carmo has a salary of $1850.45 in June.</dt>
-<dd><a href="https://github.com/julianoacs/100_Exercises/blob/main/100%20Exercises/003/src/pkg003/Main.java">Code</a></dd>
-
-<dt>004 - Develop an algorithm that reads two integers and prints the sum between them.Ex: Enter a value: 8 / Enter another value: 5 / The sum of 8 and 5 is equal to 13.</dt>
-<dd><a href="https://github.com/julianoacs/100_Exercises/blob/main/100%20Exercises/004/src/pkg004/Main.java">Code</a></dd>
-
-<dt>005 - Make a program that reads a student's two grades in a subject and displays their grade point average on the screen.
-Ex: Grade 1: 4.5 / Grade 2: 8.5 / The average between 4.5 and 8.5 is 6.5</dt>
-<dd><a href="https://github.com/julianoacs/100_Exercises/blob/main/100%20Exercises/005/src/pkg005/Main.java">Code</a></dd>
-
-<dt>006 - Make a program that reads an integer and shows its predecessor and successor.Ex: Type a number: 9 / The predecessor of 9 is 8 / The successor of 9 is 10</dt>
-<dd><a href="https://github.com/julianoacs/100_Exercises/blob/main/100%20Exercises/006/src/pkg006/Main.java">Code</a></dd>
-
-<dt>007 - Create an algorithm that reads a real number and displays its double and its third part on the screen.Ex: Enter a number: 3.5 / The double of 3.5 is 7.0 / The third part of 3.5 is 1.16666</dt>
-<dd><a href="https://github.com/julianoacs/100_Exercises/blob/main/100%20Exercises/007/src/pkg007/Main.java">Code</a></dd>
-
-</dl>
 
 
 10) Desenvolva um programa que leia uma distância em metros e mostre os valores
