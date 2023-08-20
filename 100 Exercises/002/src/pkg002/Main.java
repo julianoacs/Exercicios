@@ -22,7 +22,7 @@ public class Main {
         Scanner keyboard = new Scanner(System.in);
         System.out.println("Type your name:");
         String name = keyboard.nextLine();
-        System.out.println("Hello " + name +" Nice to meet you!");
+        System.out.println("Hello " + name + " Nice to meet you!");
     }
     
 }

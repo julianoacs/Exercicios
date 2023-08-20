@@ -2,7 +2,7 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Main.java to edit this template
  */
-package pkg004;
+package pkg008;
 
 import java.util.Scanner;
 
@@ -20,12 +20,14 @@ public class Main {
     public static void main(String[] args) {
         // TODO code application logic here
         Scanner keyboard = new Scanner (System.in);
-        System.out.println("Type one number: ");
-        int number1 = keyboard.nextInt();
-        System.out.println("Type other number: ");
-        int number2 = keyboard.nextInt();
-        int sum = number1 + number2;
-        System.out.println("The sum of the values is " + sum);
+        double dollar = 4.96; //Dollar conversion to Real on August 19th 
+        double real = 0; 
+        double conversion = 0;
+                
+        System.out.println("Type how much you want to convert to dollars: ");
+        real = keyboard.nextDouble();
+        conversion = real * dollar;
+        System.out.println("You will have US$" + conversion + " Dollars");              
     }
     
 }
