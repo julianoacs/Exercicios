@@ -19,26 +19,12 @@ Ex: Grade 1: 4.5 / Grade 2: 8.5 / The average between 4.5 and 8.5 is 6.5
   - [Code](https://github.com/julianoacs/100_Exercises/blob/main/100%20Exercises/007/src/pkg007/Main.java)
 - 008 - Make an algorithm that reads how much money a person has in their wallet (in R$) and show how many dollars they can buy. Consider US$1.00 = R$3.45. ( Or check the current exchange rate on the day )
   - [Code](https://github.com/julianoacs/100_Exercises/blob/main/100%20Exercises/008/src/pkg008/Main.java)
+- 009 - Write a program that reads a distance in meters and displays the values.
+relative to other measures.
+  - [Code](https://github.com/julianoacs/100_Exercises/blob/main/100%20Exercises/009/src/pkg009/Main.java)
+- 010 - Make an algorithm that reads the width and height of a wall, calculates and displays the area to be painted and the amount of paint needed for the job, knowing that each liter of paint paints an area of 2 square meters.
+  - [Code](https://github.com/julianoacs/100_Exercises/blob/main/100%20Exercises/010/src/pkg010/Main.java)
 
-
-
-10) Desenvolva um programa que leia uma distância em metros e mostre os valores
-relativos em outras medidas.
-Ex:
-Digite uma distância em metros: 185.72
-A distância de 85.7m corresponde a:
-0.18572Km
-1.8572Hm
-18.572Dam
-1857.2dm
-18572.0cm
-185720.0mm
-
-
-
-10) Faça um algoritmo que leia a largura e altura de uma parede, calcule e
-mostre a área a ser pintada e a quantidade de tinta necessária para o serviço,
-sabendo que cada litro de tinta pinta uma área de 2metros quadrados.
 
 11) Desenvolva uma lógica que leia os valores de A, B e C de uma equação do
 segundo grau e mostre o valor de Delta.
