@@ -21,7 +21,7 @@ public class Main {
     public static void main(String[] args) {
         // TODO code application logic here
         Scanner keyboard = new Scanner (System.in);
-        DecimalFormat  exit = new DecimalFormat(); 
+        DecimalFormat exit = new DecimalFormat(); 
         System.out.println("Type a number: ");
         double number = keyboard.nextDouble();
         double num1 = number + number;
