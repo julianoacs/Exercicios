@@ -17,7 +17,8 @@ Ex: Grade 1: 4.5 / Grade 2: 8.5 / The average between 4.5 and 8.5 is 6.5
   - [Code](https://github.com/julianoacs/100_Exercises/blob/main/100%20Exercises/006/src/pkg006/Main.java)
 - 007 - Create an algorithm that reads a real number and displays its double and its third part on the screen.Ex: Enter a number: 3.5 / The double of 3.5 is 7.0 / The third part of 3.5 is 1.16666
   - [Code](https://github.com/julianoacs/100_Exercises/blob/main/100%20Exercises/007/src/pkg007/Main.java)
-
+- 009 - Make an algorithm that reads how much money a person has in their wallet (in R$) and show how many dollars they can buy. Consider US$1.00 = R$3.45. ( Or check the current exchange rate on the day )
+  - [Code](https://github.com/julianoacs/100_Exercises/blob/main/100%20Exercises/008/src/pkg008/Main.java)
 
 
 
@@ -29,13 +30,11 @@ A distância de 85.7m corresponde a:
 0.18572Km
 1.8572Hm
 18.572Dam
-
 1857.2dm
 18572.0cm
 185720.0mm
 
-9) Faça um algoritmo que leia quanto dinheiro uma pessoa tem na carteira (em R$)
-e mostre quantos dólares ela pode comprar. Considere US$1,00 = R$3,45.
+
 
 10) Faça um algoritmo que leia a largura e altura de uma parede, calcule e
 mostre a área a ser pintada e a quantidade de tinta necessária para o serviço,
