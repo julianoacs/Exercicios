@@ -24,13 +24,12 @@ relative to other measures.
   - [Code](https://github.com/julianoacs/100_Exercises/blob/main/100%20Exercises/009/src/pkg009/Main.java)
 - 010 - Make an algorithm that reads the width and height of a wall, calculates and displays the area to be painted and the amount of paint needed for the job, knowing that each liter of paint paints an area of 2 square meters.
   - [Code](https://github.com/julianoacs/100_Exercises/blob/main/100%20Exercises/010/src/pkg010/Main.java)
-
+- 010 - Create a program that reads the price of a product, calculates and displays its
+PROMOTIONAL PRICE, with a 5% discount.
+  - [Code](https://github.com/julianoacs/100_Exercises/blob/main/100%20Exercises/011/src/pkg011/Main.java)
 
 11) Desenvolva uma lógica que leia os valores de A, B e C de uma equação do
 segundo grau e mostre o valor de Delta.
-
-12) Crie um programa que leia o preço de um produto, calcule e mostre o seu
-PREÇO PROMOCIONAL, com 5% de desconto.
 
 13) Faça um algoritmo que leia o salário de um funcionário, calcule e mostre o
 seu novo salário, com 15% de aumento.
