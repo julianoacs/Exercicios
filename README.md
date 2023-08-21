@@ -1,6 +1,7 @@
 <h3 align="center">List of programming logic exercises, adapted for JAVA</h3>
-
+<br>
 <h4 align="center">STEP 01 - BASIC SEQUENCES</h4>
+<hr>
 
 - 001 - Write a program that displays the message "Hello, World!"
   - [Code](https://github.com/julianoacs/100_Exercises/blob/main/100%20Exercises/001/src/pkg001/Main.java)
@@ -27,28 +28,31 @@ relative to other measures.
 - 011 - Create a program that reads the price of a product, calculates and displays its
 PROMOTIONAL PRICE, with a 5% discount.
   - [Code](https://github.com/julianoacs/100_Exercises/blob/main/100%20Exercises/011/src/pkg011/Main.java)
+- 012 - Create an algorithm that reads an employee's salary, calculates it and displays
+new salary, with a 15% increase.
+  - [Code](https://github.com/julianoacs/100_Exercises/blob/main/100%20Exercises/012/src/pkg012/Main.java)
+- 013 - Create a program that reads the number of days worked in a month and displays the
+salary of an employee, knowing that he works 8 hours a day and earns R$25
+per hour worked.
+  - [Code](https://github.com/julianoacs/100_Exercises/blob/main/100%20Exercises/013/src/pkg013/Main.java)
+- 014 - The car rental company needs your help to charge for its services. Write
+a program that asks for the number of kilometers a rental car has traveled and the number of days it has been rented.
+number of days it has been rented for. Calculate the total price to pay,
+knowing that the car costs R$90 per day and R$0.20 per Km driven.
+  - [Code](https://github.com/julianoacs/100_Exercises/blob/main/100%20Exercises/014/src/pkg014/Main.java)  
+- 015 - [CHALLENGE] Write a program to calculate the reduction in the lifetime of a
+smoker. Ask the number of cigarettes smoked per day and how old he was
+already smoked. Consider that a smoker loses 10 minutes of life with each cigarette. calculate
+how many days of life a smoker will lose and display the total in days.
+  - [Code](https://github.com/julianoacs/100_Exercises/blob/main/100%20Exercises/015/src/pkg015/Main.java)  
+- 016 - Develop a logic that reads the values of A, B and C from an equation of the
+equation and display the value of Delta.
+  - [Code](https://github.com/julianoacs/100_Exercises/blob/main/100%20Exercises/016/src/pkg016/Main.java)
+<hr>
+<br>
 
-11) Desenvolva uma lógica que leia os valores de A, B e C de uma equação do
-segundo grau e mostre o valor de Delta.
-
-13) Faça um algoritmo que leia o salário de um funcionário, calcule e mostre o
-seu novo salário, com 15% de aumento.
-
-14) A locadora de carros precisa da sua ajuda para cobrar seus serviços. Escreva
-um programa que pergunte a quantidade de Km percorridos por um carro alugado e a
-quantidade de dias pelos quais ele foi alugado. Calcule o preço total a pagar,
-sabendo que o carro custa R$90 por dia e R$0,20 por Km rodado.
-
-15) Crie um programa que leia o número de dias trabalhados em um mês e mostre o
-salário de um funcionário, sabendo que ele trabalha 8 horas por dia e ganha R$25
-por hora trabalhada.
-
-16) [DESAFIO] Escreva um programa para calcular a redução do tempo de vida de um
-fumante. Pergunte a quantidade de cigarros fumados por dias e quantos anos ele
-já fumou. Considere que um fumante perde 10 min de vida a cada cigarro. Calcule
-quantos dias de vida um fumante perderá e exiba o total em dias.
-
-PASSO 02 - CONDIÇÕES BÁSICAS
+<h4 align="center">STEP 02 - BASIC CONDITIONS</h4>
+<hr>
 
 17) Escreva um programa que pergunte a velocidade de um carro. Caso ultrapasse
 80Km/h, exiba uma mensagem dizendo que o usuário foi multado. Nesse caso, exiba
