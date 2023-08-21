@@ -22,7 +22,7 @@ public class Main {
         Scanner keyboard = new Scanner (System.in);
         System.out.println("Days worked: ");
         int days = keyboard.nextInt();
-        int salary = (8*25)*days;
+        int salary = (8 * 25) * days;
         System.out.println("Your salary is US$ " + salary + " Dollars.");
     }
     
