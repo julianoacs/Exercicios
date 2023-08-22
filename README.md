@@ -45,8 +45,7 @@ smoker. Ask the number of cigarettes smoked per day and how old he was
 already smoked. Consider that a smoker loses 10 minutes of life with each cigarette. calculate
 how many days of life a smoker will lose and display the total in days.
   - [Code](https://github.com/julianoacs/100_Exercises/blob/main/100%20Exercises/015/src/pkg015/Main.java)  
-- 016 - Develop a logic that reads the values of A, B and C from an equation of the
-equation and display the value of Delta.
+- 016 - Develop a logic that reads the values of A, B and C from an equation and display the value of Delta.
   - [Code](https://github.com/julianoacs/100_Exercises/blob/main/100%20Exercises/016/src/pkg016/Main.java)
 <hr>
 <br>
