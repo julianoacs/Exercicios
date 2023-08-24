@@ -11,8 +11,7 @@
   - [Code](https://github.com/julianoacs/100_Exercises/blob/main/100%20Exercises/003/src/pkg003/Main.java)
 - 004 - Develop an algorithm that reads two integers and prints the sum between them.Ex: Enter a value: 8 / Enter another value: 5 / The sum of 8 and 5 is equal to 13.
   - [Code](https://github.com/julianoacs/100_Exercises/blob/main/100%20Exercises/004/src/pkg004/Main.java)
-- 005 - Make a program that reads a student's two grades in a subject and displays their grade point average on the screen.
-Ex: Grade 1: 4.5 / Grade 2: 8.5 / The average between 4.5 and 8.5 is 6.5
+- 005 - Make a program that reads a student's two grades in a subject and displays their grade point average on the screen. Ex: Grade 1: 4.5 / Grade 2: 8.5 / The average between 4.5 and 8.5 is 6.5
   - [Code](https://github.com/julianoacs/100_Exercises/blob/main/100%20Exercises/005/src/pkg005/Main.java)
 - 006 - Make a program that reads an integer and shows its predecessor and successor.Ex: Type a number: 9 / The predecessor of 9 is 8 / The successor of 9 is 10
   - [Code](https://github.com/julianoacs/100_Exercises/blob/main/100%20Exercises/006/src/pkg006/Main.java)
@@ -20,30 +19,19 @@ Ex: Grade 1: 4.5 / Grade 2: 8.5 / The average between 4.5 and 8.5 is 6.5
   - [Code](https://github.com/julianoacs/100_Exercises/blob/main/100%20Exercises/007/src/pkg007/Main.java)
 - 008 - Make an algorithm that reads how much money a person has in their wallet (in R$) and show how many dollars they can buy. Consider US$1.00 = R$3.45. ( Or check the current exchange rate on the day )
   - [Code](https://github.com/julianoacs/100_Exercises/blob/main/100%20Exercises/008/src/pkg008/Main.java)
-- 009 - Write a program that reads a distance in meters and displays the values.
-relative to other measures.
+- 009 - Write a program that reads a distance in meters and displays the values. relative to other measures.
   - [Code](https://github.com/julianoacs/100_Exercises/blob/main/100%20Exercises/009/src/pkg009/Main.java)
 - 010 - Make an algorithm that reads the width and height of a wall, calculates and displays the area to be painted and the amount of paint needed for the job, knowing that each liter of paint paints an area of 2 square meters.
   - [Code](https://github.com/julianoacs/100_Exercises/blob/main/100%20Exercises/010/src/pkg010/Main.java)
-- 011 - Create a program that reads the price of a product, calculates and displays its
-PROMOTIONAL PRICE, with a 5% discount.
+- 011 - Create a program that reads the price of a product, calculates and displays its PROMOTIONAL PRICE, with a 5% discount.
   - [Code](https://github.com/julianoacs/100_Exercises/blob/main/100%20Exercises/011/src/pkg011/Main.java)
-- 012 - Create an algorithm that reads an employee's salary, calculates it and displays
-new salary, with a 15% increase.
+- 012 - Create an algorithm that reads an employee's salary, calculates it and displays new salary, with a 15% increase.
   - [Code](https://github.com/julianoacs/100_Exercises/blob/main/100%20Exercises/012/src/pkg012/Main.java)
-- 013 - Create a program that reads the number of days worked in a month and displays the
-salary of an employee, knowing that he works 8 hours a day and earns R$25
-per hour worked.
+- 013 - Create a program that reads the number of days worked in a month and displays the salary of an employee, knowing that he works 8 hours a day and earns R$25 per hour worked.
   - [Code](https://github.com/julianoacs/100_Exercises/blob/main/100%20Exercises/013/src/pkg013/Main.java)
-- 014 - The car rental company needs your help to charge for its services. Write
-a program that asks for the number of kilometers a rental car has traveled and the number of days it has been rented.
-number of days it has been rented for. Calculate the total price to pay,
-knowing that the car costs R$90 per day and R$0.20 per Km driven.
+- 014 - The car rental company needs your help to charge for its services. Write a program that asks for the number of kilometers a rental car has traveled and the number of days it has been rented. number of days it has been rented for. Calculate the total price to pay, knowing that the car costs R$90 per day and R$0.20 per Km driven.
   - [Code](https://github.com/julianoacs/100_Exercises/blob/main/100%20Exercises/014/src/pkg014/Main.java)  
-- 015 - [CHALLENGE] Write a program to calculate the reduction in the lifetime of a
-smoker. Ask the number of cigarettes smoked per day and how old he was
-already smoked. Consider that a smoker loses 10 minutes of life with each cigarette. calculate
-how many days of life a smoker will lose and display the total in days.
+- 015 - [CHALLENGE] Write a program to calculate the reduction in the lifetime of a smoker. Ask the number of cigarettes smoked per day and how old he was already smoked. Consider that a smoker loses 10 minutes of life with each cigarette. calculate how many days of life a smoker will lose and display the total in days.
   - [Code](https://github.com/julianoacs/100_Exercises/blob/main/100%20Exercises/015/src/pkg015/Main.java)  
 - 016 - Develop a logic that reads the values of A, B and C from an equation and display the value of Delta.
   - [Code](https://github.com/julianoacs/100_Exercises/blob/main/100%20Exercises/016/src/pkg016/Main.java)
@@ -53,13 +41,11 @@ how many days of life a smoker will lose and display the total in days.
 <h4 align="center">STEP 02 - BASIC CONDITIONS</h4>
 <hr>
 
-- 017 - Write a program that asks the speed of a car. If it exceeds
-80Km/h, display a message saying that the user has been fined. In this case, display
-the amount of the fine, charging R$5 for each Km over the allowed speed.
+- 017 - Write a program that asks the speed of a car. If it exceeds 80Km/h, display a message saying that the user has been fined. In this case, display the amount of the fine, charging R$5 for each Km over the allowed speed.
   - [Code](https://github.com/julianoacs/100_Exercises/blob/main/100%20Exercises/017/src/pkg017/Main.java)
+- 018 - Make a program that reads a person's year of birth, calculates their age and then and then show whether or not they can vote.
+  - [Code](https://github.com/julianoacs/100_Exercises/blob/main/100%20Exercises/018/src/pkg018/Main.java)
 
-18) Faça um programa que leia o ano de nascimento de uma pessoa, calcule a idade
-dela e depois mostre se ela pode ou não votar.
 
 19) Crie um algoritmo que leia o nome e as duas notas de um aluno, calcule a sua
 média e mostre na tela. No final, analise a média e mostre se o aluno teve ou
