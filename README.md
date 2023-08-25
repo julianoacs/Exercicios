@@ -45,11 +45,9 @@
   - [Code](https://github.com/julianoacs/100_Exercises/blob/main/100%20Exercises/017/src/pkg017/Main.java)
 - 018 - Make a program that reads a person's year of birth, calculates their age and then and then show whether or not they can vote.
   - [Code](https://github.com/julianoacs/100_Exercises/blob/main/100%20Exercises/018/src/pkg018/Main.java)
+- 019 - Create an algorithm that reads a student's name and two grades, calculates their average and displays it on the screen. At the end, analyze the average and show whether or not the student did well (if they got above the 7.0 average).
+  - [Code](https://github.com/julianoacs/100_Exercises/blob/main/100%20Exercises/019/src/pkg019/Main.java)
 
-
-19) Crie um algoritmo que leia o nome e as duas notas de um aluno, calcule a sua
-média e mostre na tela. No final, analise a média e mostre se o aluno teve ou
-não um bom aproveitamento (se ficou acima da média 7.0).
 
 20) Desenvolva um programa que leia um número inteiro e mostre se ele é PAR ou
 ÍMPAR.
