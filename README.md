@@ -1,8 +1,8 @@
 <h3 align="center">List of programming logic exercises, adapted for JAVA</h3>
-
-[![GitHub repo watchers](https://img.shields.io/github/watchers/EbookFoundation/free-programming-books?style=flat&logo=github&logoColor=whitesmoke&label=Watchers)](https://github.com/julianoacs/100_Exercises)&#160;
-
-<br>
+<p align="center">
+  <a href="https://github.com/julianoacs/100_Exercises">
+    <img src="https://img.shields.io/github/watchers/julianoacs/100_Exercises?style=flat&logo=github&logoColor=whitesmoke&label=Watchers" width="110px"></a>
+</p>
 <h4 align="center">STEP 01 - BASIC SEQUENCES</h4>
 <hr>
 
