@@ -47,10 +47,8 @@
   - [Code](https://github.com/julianoacs/100_Exercises/blob/main/100%20Exercises/018/src/pkg018/Main.java)
 - 019 - Create an algorithm that reads a student's name and two grades, calculates their average and displays it on the screen. At the end, analyze the average and show whether or not the student did well (if they got above the 7.0 average).
   - [Code](https://github.com/julianoacs/100_Exercises/blob/main/100%20Exercises/019/src/pkg019/Main.java)
-
-
-20) Desenvolva um programa que leia um número inteiro e mostre se ele é PAR ou
-ÍMPAR.
+- 020 - Develop a program that reads an integer and shows whether it is EVENS or ODD.
+  - [Code](https://github.com/julianoacs/100_Exercises/blob/main/100%20Exercises/020/src/pkg020/Main.java)
 
 21) Faça um algoritmo que leia um determinado ano e mostre se ele é ou não
 BISSEXTO.
