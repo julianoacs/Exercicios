@@ -31,4 +31,5 @@ public class Main {
             System.out.println("Your average was " + media + " You failed.");
         }     
     }
+    
 }

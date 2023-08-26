@@ -24,8 +24,7 @@ public class Main {
         String name = keyboard.nextLine();
         System.out.println("Type your Salary: ");
         float salary = keyboard.nextFloat();
-        System.out.println("The employee " + name + " will received the salary of $" + salary + " Dollars");
-        
+        System.out.println("The employee " + name + " will received the salary of $" + salary + " Dollars"); 
     }
     
 }
