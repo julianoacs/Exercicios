@@ -52,9 +52,9 @@
   - [Code](https://github.com/julianoacs/100_Exercises/blob/main/100%20Exercises/019/src/pkg019/Main.java)
 - 020 - Develop a program that reads an integer and shows whether it is EVENS or ODD.
   - [Code](https://github.com/julianoacs/100_Exercises/blob/main/100%20Exercises/020/src/pkg020/Main.java)
+- 021 - Make an algorithm that reads a given year and shows whether or not it is LEAP.
+  - [Code](https://github.com/julianoacs/100_Exercises/blob/main/100%20Exercises/021/src/pkg021/Main.java)
 
-21) Faça um algoritmo que leia um determinado ano e mostre se ele é ou não
-BISSEXTO.
 
 22) Escreva um programa que leia o ano de nascimento de um rapaz e mostre a sua
 situação em relação ao alistamento militar.
