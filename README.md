@@ -58,24 +58,19 @@
   - If he is before the age of 18, show how many years he has left before enlistment.
   - If he is after 18, show how many years have passed since his enlistment.
   - [Code](https://github.com/julianoacs/100_Exercises/blob/main/100%20Exercises/022/src/pkg022/Main.java)
+- 023 -  In an exclusive promotion for Women's Day, a store wants to give discounts for everyone, but especially for women. Make a program that reads the customer's name, gender and the value of the customer's purchases and calculates the discounted price. Knowing that.
+  - Men get a 5% discount
+  - Women get 13% discount
+  - [Code](https://github.com/julianoacs/100_Exercises/blob/main/100%20Exercises/023/src/pkg023/Main.java)
+- 024 - Create an algorithm that asks the distance a passenger wants to in Km. Calculate the price of the ticket, charging R$0.50 per Km for up to 200 km and R$0.45 for longer journeys.
+  - [Code](https://github.com/julianoacs/100_Exercises/blob/main/100%20Exercises/024/src/pkg024/Main.java)
+- 025 - [CHALLENGE] Create a program that reads the length of three line segments. Analyze their lengths and say whether it is possible to form a triangle with these lines. Mathematically, for three segments to form a triangle, the length of of each side must be less than the sum of the other two.
+  - [Code](https://github.com/julianoacs/100_Exercises/blob/main/100%20Exercises/025/src/pkg025/Main.java)
+<hr>
+<br>
 
-23) Numa promoção exclusiva para o Dia da Mulher, uma loja quer dar descontos
-para todos, mas especialmente para mulheres. Faça um programa que leia nome,
-sexo e o valor das compras do cliente e calcule o preço com desconto. Sabendo
-que:
-- Homens ganham 5% de desconto
-- Mulheres ganham 13% de desconto
-
-24) Faça um algoritmo que pergunte a distância que um passageiro deseja
-percorrer em Km. Calcule o preço da passagem, cobrando R$0.50 por Km para
-viagens até 200Km e R$0.45 para viagens mais longas.
-
-25) [DESAFIO] Crie um programa que leia o tamanho de três segmentos de reta.
-Analise seus comprimentos e diga se é possível formar um triângulo com essas
-retas. Matematicamente, para três segmentos formarem um triângulo, o comprimento
-de cada lado deve ser menor que a soma dos outros dois.
-
-PASSO 03 - CONDIÇÕES COMPOSTAS
+<h4 align="center">STEP 03 - COMPOUND CONDITIONS</h4>
+<hr>
 
 26) Escreva um algoritmo que leia dois números inteiros e compare-os, mostrando
 na tela uma das mensagens abaixo:
