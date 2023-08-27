@@ -55,8 +55,8 @@
 - 021 - Make an algorithm that reads a given year and shows whether or not it is LEAP.
   - [Code](https://github.com/julianoacs/100_Exercises/blob/main/100%20Exercises/021/src/pkg021/Main.java)
 - 022 - Write a program that reads a boy's year of birth and shows his military enlistment status.
-        - If he is before the age of 18, show how many years he has left before enlistment.
-        - If he is after 18, show how many years have passed since his enlistment.
+  - If he is before the age of 18, show how many years he has left before enlistment.
+  - If he is after 18, show how many years have passed since his enlistment.
   - [Code](https://github.com/julianoacs/100_Exercises/blob/main/100%20Exercises/022/src/pkg022/Main.java)
 
 23) Numa promoção exclusiva para o Dia da Mulher, uma loja quer dar descontos
