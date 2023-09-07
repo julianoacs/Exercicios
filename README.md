@@ -72,24 +72,25 @@
 <h4 align="center">STEP 03 - COMPOUND CONDITIONS</h4>
 <hr>
 
-26) Escreva um algoritmo que leia dois números inteiros e compare-os, mostrando
-na tela uma das mensagens abaixo:
-- O primeiro valor é o maior
-- O segundo valor é o maior
-- Não existe valor maior, os dois são iguais
+- 026 Write an algorithm that reads two integers and compares them, showing
+  - one of the messages below:
+  - The first value is greater
+  - The second value is greater
+  - There is no greater value, the two are equal
+  -  [Code](https://github.com/julianoacs/100_Exercises/blob/main/100%20Exercises/026/src/pkg026/Main.java)
 
-27) Crie um programa que leia duas notas de um aluno e calcule a sua média,
-mostrando uma mensagem no final, de acordo com a média atingida:
-- Média até 4.9: REPROVADO
-- Média entre 5.0 e 6.9: RECUPERAÇÃO
-- Média 7.0 ou superior: APROVADO
+- 027 - Create a program that reads two grades from a student and calculates their average, displaying a message at the end according to the average achieved:
+  - Média até 4.9: REPROVADO
+  - Média entre 5.0 e 6.9: RECUPERAÇÃO
+  - Média 7.0 ou superior: APROVADO
+  - [Code](https://github.com/julianoacs/100_Exercises/blob/main/100%20Exercises/027/src/pkg027/Main.java)
+- 028 -  Make a program that reads the width and length of a rectangular plot of land and and calculates and displays its area in m2.
+  -  The program should also show the classification of this plot of land, according to the list below:
+  - Below 100m2 = POPULAR LAND
+  - Between 100m2 and 500m2 = MASTER LAND
+  - Above 500m2 = VIP LAND
+  - [Code](https://github.com/julianoacs/100_Exercises/blob/main/100%20Exercises/028/src/pkg028/Main.java)
 
-28) Faça um programa que leia a largura e o comprimento de um terreno
-retangular, calculando e mostrando a sua área em m2. O programa também
-devemostrar a classificação desse terreno, de acordo com a lista abaixo:
-- Abaixo de 100m2 = TERRENO POPULAR
-- Entre 100m2 e 500m2 = TERRENO MASTER
-- Acima de 500m2 = TERRENO VIP
 
 29) Desenvolva um programa que leia o nome de um funcionário, seu salário,
 quantos anos ele trabalha na empresa e mostre seu novo salário, reajustado de
