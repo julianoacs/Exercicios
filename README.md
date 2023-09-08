@@ -90,14 +90,12 @@
   - Between 100m2 and 500m2 = MASTER LAND
   - Above 500m2 = VIP LAND
   - [Code](https://github.com/julianoacs/100_Exercises/blob/main/100%20Exercises/028/src/pkg028/Main.java)
-
-
-29) Desenvolva um programa que leia o nome de um funcionário, seu salário,
-quantos anos ele trabalha na empresa e mostre seu novo salário, reajustado de
-acordo com a tabela a seguir:
-- Até 3 anos de empresa: aumento de 3%
-- entre 3 e 10 anos: aumento de 12.5%
-- 10 anos ou mais: aumento de 20%
+- 029 - Develop a program that reads an employee's name, salary, how many years he has worked for the company and shows his new salary, adjusted according to
+according to the following table:
+  -  Up to 3 years in the company: 3% increase
+  -  between 3 and 10 years: 12.5% increase
+  -  10 years or more: 20% increase
+  - [Code](https://github.com/julianoacs/100_Exercises/blob/main/100%20Exercises/029/src/pkg029/Main.java)
 
 30) [DESAFIO] Refaça o algoritmo 25, acrescentando o recurso de mostrar que tipo
 de triângulo será formado:
