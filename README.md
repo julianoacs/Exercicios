@@ -101,8 +101,8 @@ according to the following table:
   - ISOSCELES: two equal sides
   - SCALENE: all different sides
   - [Code](https://github.com/julianoacs/100_Exercises/blob/main/100%20Exercises/030/src/pkg030/Main.java)
-
-31) [DESAFIO] Crie um jogo de JoKenPo (Pedra-Papel-Tesoura)
+- 031 - [CHALLENGE] Create a JoKenPo (Rock-Paper-Scissors) game.
+  - [Code](https://github.com/julianoacs/100_Exercises/blob/main/100%20Exercises/031/src/pkg031/Main.java)
 
 32) [DESAFIO] Crie um jogo onde o computador vai sortear um número entre 1 e 5 o
 jogador vai tentar descobrir qual foi o valor sorteado.
