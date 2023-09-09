@@ -78,7 +78,6 @@
   - The second value is greater
   - There is no greater value, the two are equal
   -  [Code](https://github.com/julianoacs/100_Exercises/blob/main/100%20Exercises/026/src/pkg026/Main.java)
-
 - 027 - Create a program that reads two grades from a student and calculates their average, displaying a message at the end according to the average achieved:
   - Média até 4.9: REPROVADO
   - Média entre 5.0 e 6.9: RECUPERAÇÃO
