@@ -96,12 +96,11 @@ according to the following table:
   -  between 3 and 10 years: 12.5% increase
   -  10 years or more: 20% increase
   - [Code](https://github.com/julianoacs/100_Exercises/blob/main/100%20Exercises/029/src/pkg029/Main.java)
-
-30) [DESAFIO] Refaça o algoritmo 25, acrescentando o recurso de mostrar que tipo
-de triângulo será formado:
-- EQUILÁTERO: todos os lados iguais
-- ISÓSCELES: dois lados iguais
-- ESCALENO: todos os lados diferentes
+- 030 - [CHALLENGE] Redo algorithm 25, adding the feature of showing what type triangle will be formed:
+  - EQUILATEROUS: all sides equal
+  - ISOSCELES: two equal sides
+  - SCALENE: all different sides
+  - [Code](https://github.com/julianoacs/100_Exercises/blob/main/100%20Exercises/030/src/pkg030/Main.java)
 
 31) [DESAFIO] Crie um jogo de JoKenPo (Pedra-Papel-Tesoura)
 
