@@ -102,9 +102,8 @@ according to the following table:
   - [Code](https://github.com/julianoacs/100_Exercises/blob/main/100%20Exercises/030/src/pkg030/Main.java)
 - 031 - [CHALLENGE] Create a JoKenPo (Rock-Paper-Scissors) game.
   - [Code](https://github.com/julianoacs/100_Exercises/blob/main/100%20Exercises/031/src/pkg031/Main.java)
-
-32) [DESAFIO] Crie um jogo onde o computador vai sortear um número entre 1 e 5 o
-jogador vai tentar descobrir qual foi o valor sorteado.
+- 032 - [CHALLENGE] Create a game where the computer will draw a number between 1 and 5 player will try to find out what the drawn value was.
+  - [Code](https://github.com/julianoacs/100_Exercises/blob/main/100%20Exercises/032/src/pkg032/Main.java)
 
 33) Escreva um programa para aprovar ou não o empréstimo bancário para a compra
 de uma casa. O programa vai perguntar o valor da casa, o salário do comprador e
