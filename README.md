@@ -103,7 +103,7 @@ according to the following table:
 - 031 - [CHALLENGE] Create a JoKenPo (Rock-Paper-Scissors) game.
   - [Code](https://github.com/julianoacs/100_Exercises/blob/main/100%20Exercises/031/src/pkg031/Main.java)
 - 032 - [CHALLENGE] Create a game where the computer will draw a number between 1 and 5 player will try to find out what the drawn value was.
-  - [Code](https://github.com/julianoacs/100_Exercises/blob/main/100%20Exercises/032/src/pkg032/Main.java)
+  - [Code](https://github.com/julianoacs/100_Exercises/blob/main/100%20Exercises/032/src/pkg032/App.java)
 
 33) Escreva um programa para aprovar ou não o empréstimo bancário para a compra
 de uma casa. O programa vai perguntar o valor da casa, o salário do comprador e
