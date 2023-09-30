@@ -104,12 +104,10 @@ according to the following table:
   - [Code](https://github.com/julianoacs/100_Exercises/blob/main/100%20Exercises/031/src/pkg031/Main.java)
 - 032 - [CHALLENGE] Create a game where the computer will draw a number between 1 and 5 player will try to find out what the drawn value was.
   - [Code](https://github.com/julianoacs/100_Exercises/blob/main/100%20Exercises/032/src/App.java)
-
-33) Escreva um programa para aprovar ou não o empréstimo bancário para a compra
-de uma casa. O programa vai perguntar o valor da casa, o salário do comprador e
-em quantos anos ele vai pagar. Calcule o valor da prestação mensal, sabendo que
-ela não pode exceder 30% do salário ou então o empréstimo será negado.
-
+- 033 - Write a program to approve or disapprove a bank loan to buy a house. of a house. The program will ask for the value of the house, the buyer's salary and how many years the buyer will pay. Calculate the monthly installment, knowing thatit cannot exceed 30% of the salary or the loan will be denied.
+  - [Code](https://github.com/julianoacs/100_Exercises/blob/main/100%20Exercises/033/src/pkg033/Main.java)
+ 
+    
 34) O Índice de Massa Corpórea (IMC) é um valor calculado baseado na altura e no
 peso de uma pessoa. De acordo com o valor do IMC, podemos classificar o
 indivíduo dentro de certas faixas.
