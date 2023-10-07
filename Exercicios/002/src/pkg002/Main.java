@@ -20,6 +20,7 @@ public class Main {
         System.out.println("--- Bem Vindo ---");
         System.out.println("Digite seu nome:");
         String nome = teclado.nextLine();
+        // nextString(), Capta apenas a primeira palavra digitada / nextLine(), Capta toda a linha.
         // Sinal de ( + ) usado para concatenar um texto.
         System.out.println("Ola " + nome + ", e um prazer te conhecer!");
     }
