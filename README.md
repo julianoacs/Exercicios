@@ -12,3 +12,9 @@
 Ex: Qual é o seu nome? João da Silva.  
 Olá João da Silva, é um prazer te conhecer!  
 [Código](https://github.com/julianoacs/Exercicios/blob/main/Exercicios/002/src/pkg002/Main.java)
+
+- 003 - 3) Crie um programa que leia o nome e o salário de um funcionário, mostrando no final uma mensagem.  
+Ex: Nome do Funcionário: Maria do Carmo  
+Salário: 1850,45  
+O funcionário Maria do Carmo tem um salário de R$1850,45 em Junho.  
+[Código](https://github.com/julianoacs/Exercicios/blob/main/Exercicios/003/src/pkg003/Main.java)
