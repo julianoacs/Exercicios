@@ -30,3 +30,11 @@ Ex: Nota 1: 4.5
 Nota 2: 8.5  
 A média entre 4.5 e 8.5 é igual a 6.5  
 [Código](https://github.com/julianoacs/Exercicios/blob/main/Exercicios/005/src/pkg005/Main.java)
+
+- 006 - Faça um programa que leia um número inteiro e mostre o seu antecessor e seu sucessor.  
+Ex:
+Digite um número: 9  
+O antecessor de 9 é 8  
+O sucessor de 9 é 10   
+[Código](https://github.com/julianoacs/Exercicios/blob/main/Exercicios/006/Exercicio/src/Main.java)
+
