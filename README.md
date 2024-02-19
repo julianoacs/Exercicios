@@ -38,3 +38,10 @@ O antecessor de 9 é 8
 O sucessor de 9 é 10   
 [Código](https://github.com/julianoacs/Exercicios/blob/main/Exercicios/006/Exercicio/src/Main.java)
 
+- 007 - Crie um algoritmo que leia um número real e mostre na tela o seu dobro e a sua terça parte.  
+Ex: Digite um número: 3.5  
+O dobro de 3.5 é 7.0  
+A terça parte de 3.5 é 1.16666  
+[Código](https://github.com/julianoacs/Exercicios/blob/main/Exercicios/007/e007/src/Main.java)
+
+
