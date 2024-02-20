@@ -44,4 +44,11 @@ O dobro de 3.5 é 7.0
 A terça parte de 3.5 é 1.16666  
 [Código](https://github.com/julianoacs/Exercicios/blob/main/Exercicios/007/e007/src/Main.java)
 
+- 008 - Desenvolva um programa que leia uma distância em metros e mostre os valores relativos em outras medidas.  
+Ex: Digite uma distância em metros: 185.72  
+E Mostre suas medidas correspondentes nas unidades de medidias, Melimetros, Centimetros, Kilometros e Milhas    
+[Código](https://github.com/julianoacs/Exercicios/blob/main/Exercicios/008/e008/src/Main.java)
+
+
+
 
