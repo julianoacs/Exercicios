@@ -49,6 +49,5 @@ Ex: Digite uma distância em metros: 185.72
 E Mostre suas medidas correspondentes nas unidades de medidias, Melimetros, Centimetros, Kilometros e Milhas    
 [Código](https://github.com/julianoacs/Exercicios/blob/main/Exercicios/008/Main.java)
 
-
-
-
+- 009 - Faça um algoritmo que leia quanto dinheiro uma pessoa tem na carteira (em R$) e mostre quantos dólares ela pode comprar.
+[Código](https://github.com/julianoacs/Exercicios/blob/main/Exercicios/009/Main.java)
