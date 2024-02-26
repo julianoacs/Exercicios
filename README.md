@@ -57,3 +57,6 @@ E Mostre suas medidas correspondentes nas unidades de medidias, Melimetros, Cent
 
 - 012 - Crie um programa que leia o preço de um produto, calcule e mostre o seu PREÇO PROMOCIONAL, com 5% de desconto.  
 [Código](https://github.com/julianoacs/Exercicios/blob/main/Exercicios/012/Main.java)
+
+- 013 - Faça um algoritmo que leia o salário de um funcionário, calcule e mostre o seu novo salário, com 15% de aumento.  
+[Código](https://github.com/julianoacs/Exercicios/blob/main/Exercicios/013/Main.java)
