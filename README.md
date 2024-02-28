@@ -63,3 +63,6 @@ E Mostre suas medidas correspondentes nas unidades de medidias, Melimetros, Cent
 
 - 014 - A locadora de carros precisa da sua ajuda para cobrar seus serviços. Escreva um programa que pergunte a quantidade de Km percorridos por um carro alugado e a quantidade de dias pelos quais ele foi alugado. Calcule o preço total a pagar, sabendo que o carro custa R$90 por dia e R$0,20 por Km rodado.  
 [Código](https://github.com/julianoacs/Exercicios/blob/main/Exercicios/014/Main.java)
+
+- 015 - Crie um programa que leia o número de dias trabalhados em um mês e mostre o salário de um funcionário, sabendo que ele trabalha 8 horas por dia e ganha R$25 por hora trabalhada.  
+[Código](https://github.com/julianoacs/Exercicios/blob/main/Exercicios/015/Main.java)
