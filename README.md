@@ -55,6 +55,9 @@ E Mostre suas medidas correspondentes nas unidades de medidias, Melimetros, Cent
 - 010 - Faça um algoritmo que leia a largura e altura de uma parede, calcule e mostre a área a ser pintada e a quantidade de tinta necessária para o serviço, sabendo que cada litro de tinta pinta uma área de 2metros quadrados.  
 [Código](https://github.com/julianoacs/Exercicios/blob/main/Exercicios/010/Main.java)
 
+- 011 - Desenvolva uma lógica que leia os valores de A, B e C de uma equação do segundo grau e mostre o valor de Delta.  
+[Código](https://github.com/julianoacs/Exercicios/blob/main/Exercicios/011/Main.java)
+
 - 012 - Crie um programa que leia o preço de um produto, calcule e mostre o seu PREÇO PROMOCIONAL, com 5% de desconto.  
 [Código](https://github.com/julianoacs/Exercicios/blob/main/Exercicios/012/Main.java)
 
