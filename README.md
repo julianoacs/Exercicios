@@ -66,3 +66,6 @@ E Mostre suas medidas correspondentes nas unidades de medidias, Melimetros, Cent
 
 - 015 - Crie um programa que leia o número de dias trabalhados em um mês e mostre o salário de um funcionário, sabendo que ele trabalha 8 horas por dia e ganha R$25 por hora trabalhada.  
 [Código](https://github.com/julianoacs/Exercicios/blob/main/Exercicios/015/Main.java)
+
+- 016 - Escreva um programa para calcular a redução do tempo de vida de um fumante. Pergunte a quantidade de cigarros fumados por dias e quantos anos ele já fumou. Considere que um fumante perde 10 min de vida a cada cigarro. Calcule quantos dias de vida um fumante perderá e exiba o total em dias.  
+[Código](https://github.com/julianoacs/Exercicios/blob/main/Exercicios/016/Main.java)
