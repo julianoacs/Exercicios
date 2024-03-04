@@ -78,3 +78,6 @@ E Mostre suas medidas correspondentes nas unidades de medidias, Melimetros, Cent
 
 - 018 - Faça um programa que leia o ano de nascimento de uma pessoa, calcule a idade dela e depois mostre se ela pode ou não votar.  
 [Código](https://github.com/julianoacs/Exercicios/blob/main/Exercicios/018/Main.java)
+
+- 019 - Crie um algoritmo que leia o nome e as duas notas de um aluno, calcule a sua média e mostre na tela. No final, analise a média e mostre se o aluno teve ou não um bom aproveitamento (se ficou acima da média 7.0).  
+[Código](https://github.com/julianoacs/Exercicios/blob/main/Exercicios/019/Main.java)
