@@ -84,3 +84,6 @@ E Mostre suas medidas correspondentes nas unidades de medidias, Melimetros, Cent
 
 - 020 - Desenvolva um programa que leia um número inteiro e mostre se ele é PAR ou ÍMPAR.  
 [Código](https://github.com/julianoacs/Exercicios/blob/main/Exercicios/020/Main.java)
+
+- 021 - Faça um algoritmo que leia um determinado ano e mostre se ele é ou não BISSEXTO.  
+[Código](https://github.com/julianoacs/Exercicios/blob/main/Exercicios/021/Main.java)
