@@ -92,3 +92,8 @@ E Mostre suas medidas correspondentes nas unidades de medidias, Melimetros, Cent
 Se estiver antes dos 18 anos, mostre em quantos anos faltam para o alistamento.  
 Se já tiver depois dos 18 anos, mostre quantos anos já se passaram do alistamento.  
 [Código](https://github.com/julianoacs/Exercicios/blob/main/Exercicios/022/Main.java)
+
+- 023 - Numa promoção exclusiva para o Dia da Mulher, uma loja quer dar descontos para todos, mas especialmente para mulheres. Faça um programa que leia nome, sexo e o valor das compras do cliente e calcule o preço com desconto. Sabendo que:  
+Homens ganham 5% de desconto  
+Mulheres ganham 13% de desconto  
+[Código](https://github.com/julianoacs/Exercicios/blob/main/Exercicios/023/Main.java)
