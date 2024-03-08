@@ -100,3 +100,6 @@ Mulheres ganham 13% de desconto
 
 - 024 - Faça um algoritmo que pergunte a distância que um passageiro deseja percorrer em Km. Calcule o preço da passagem, cobrando R$0.50 por Km para viagens até 200Km e R$0.45 para viagens mais longas.  
 [Código](https://github.com/julianoacs/Exercicios/blob/main/Exercicios/024/Main.java)
+
+- 025 - Crie um programa que leia o tamanho de três segmentos de reta. Analise seus comprimentos e diga se é possível formar um triângulo com essas retas. Matematicamente, para três segmentos formarem um triângulo, o comprimento de cada lado deve ser menor que a soma dos outros dois.  
+[Código](https://github.com/julianoacs/Exercicios/blob/main/Exercicios/025/Main.java)
