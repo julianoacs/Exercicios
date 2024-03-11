@@ -103,3 +103,9 @@ Mulheres ganham 13% de desconto
 
 - 025 - Crie um programa que leia o tamanho de três segmentos de reta. Analise seus comprimentos e diga se é possível formar um triângulo com essas retas. Matematicamente, para três segmentos formarem um triângulo, o comprimento de cada lado deve ser menor que a soma dos outros dois.  
 [Código](https://github.com/julianoacs/Exercicios/blob/main/Exercicios/025/Main.java)
+
+- 026 - Escreva um algoritmo que leia dois números inteiros e compare-os, mostrando na tela uma das mensagens abaixo:  
+O primeiro valor é o maior  
+O segundo valor é o maior  
+Não existe valor maior, os dois são iguais  
+[Código](https://github.com/julianoacs/Exercicios/blob/main/Exercicios/026/Main.java) 
