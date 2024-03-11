@@ -11,9 +11,9 @@ public class Main {
         if (numero1 == numero2){
             System.out.println("Os numeros sao iguais");
         } else if (numero1 > numero2) {
-            System.out.println("O numero " + numero1 + " e maior.");
+            System.out.println("O primeiro numero ( " + numero1 + " ) e maior.");
         } else {
-            System.out.println("O numero " + numero2 + " e maior.");
+            System.out.println("O segundo numero ( " + numero2 + " ) e maior.");
         }
     }
 }
