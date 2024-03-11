@@ -108,4 +108,10 @@ Mulheres ganham 13% de desconto
 O primeiro valor é o maior  
 O segundo valor é o maior  
 Não existe valor maior, os dois são iguais  
-[Código](https://github.com/julianoacs/Exercicios/blob/main/Exercicios/026/Main.java) 
+[Código](https://github.com/julianoacs/Exercicios/blob/main/Exercicios/026/Main.java)
+
+- 027 - Crie um programa que leia duas notas de um aluno e calcule a sua média, mostrando uma mensagem no final, de acordo com a média atingida:  
+Média até 4.9: REPROVADO  
+Média entre 5.0 e 6.9: RECUPERAÇÃO  
+Média 7.0 ou superior: APROVADO  
+[Código](https://github.com/julianoacs/Exercicios/blob/main/Exercicios/027/Main.java)
