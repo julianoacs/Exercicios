@@ -116,8 +116,14 @@ Média entre 5.0 e 6.9: RECUPERAÇÃO
 Média 7.0 ou superior: APROVADO  
 [Código](https://github.com/julianoacs/Exercicios/blob/main/Exercicios/027/Main.java)
 
-28) Faça um programa que leia a largura e o comprimento de um terreno retangular, calculando e mostrando a sua área em m2. O programa também devemostrar a classificação desse terreno, de acordo com a lista abaixo:  
+- 028 - Faça um programa que leia a largura e o comprimento de um terreno retangular, calculando e mostrando a sua área em m2. O programa também devemostrar a classificação desse terreno, de acordo com a lista abaixo:  
 Abaixo de 100m2 = TERRENO POPULAR  
 Entre 100m2 e 500m2 = TERRENO MASTER  
 Acima de 500m2 = TERRENO VIP  
 [Código](https://github.com/julianoacs/Exercicios/blob/main/Exercicios/028/Main.java)
+
+- 029 -Desenvolva um programa que leia o nome de um funcionário, seu salário, quantos anos ele trabalha na empresa e mostre seu novo salário, reajustado de acordo com a tabela a seguir:  
+  Até 3 anos de empresa: aumento de 3%  
+  entre 3 e 10 anos: aumento de 12.5%  
+  10 anos ou mais: aumento de 20%  
+  [Código](https://github.com/julianoacs/Exercicios/blob/main/Exercicios/029/Main.java)
