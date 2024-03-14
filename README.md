@@ -123,7 +123,13 @@ Acima de 500m2 = TERRENO VIP
 [Código](https://github.com/julianoacs/Exercicios/blob/main/Exercicios/028/Main.java)
 
 - 029 -Desenvolva um programa que leia o nome de um funcionário, seu salário, quantos anos ele trabalha na empresa e mostre seu novo salário, reajustado de acordo com a tabela a seguir:  
-  Até 3 anos de empresa: aumento de 3%  
-  entre 3 e 10 anos: aumento de 12.5%  
-  10 anos ou mais: aumento de 20%  
-  [Código](https://github.com/julianoacs/Exercicios/blob/main/Exercicios/029/Main.java)
+Até 3 anos de empresa: aumento de 3%  
+entre 3 e 10 anos: aumento de 12.5%  
+10 anos ou mais: aumento de 20%  
+[Código](https://github.com/julianoacs/Exercicios/blob/main/Exercicios/029/Main.java)
+
+- 030 - Refaça o algoritmo 25, acrescentando o recurso de mostrar que tipo de triângulo será formado:  
+EQUILÁTERO: todos os lados iguais  
+ISÓSCELES: dois lados iguais  
+ESCALENO: todos os lados diferentes  
+[Código](https://github.com/julianoacs/Exercicios/blob/main/Exercicios/030/Main.java)  
