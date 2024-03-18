@@ -132,4 +132,7 @@ entre 3 e 10 anos: aumento de 12.5%
 EQUILÁTERO: todos os lados iguais  
 ISÓSCELES: dois lados iguais  
 ESCALENO: todos os lados diferentes  
-[Código](https://github.com/julianoacs/Exercicios/blob/main/Exercicios/030/Main.java)  
+[Código](https://github.com/julianoacs/Exercicios/blob/main/Exercicios/030/Main.java)
+
+- 031 - Crie um jogo de JoKenPo (Pedra-Papel-Tesoura)  
+[Código](https://github.com/julianoacs/Exercicios/blob/main/Exercicios/031/Main.java)
