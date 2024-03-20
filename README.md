@@ -136,3 +136,6 @@ ESCALENO: todos os lados diferentes
 
 - 031 - Crie um jogo de JoKenPo (Pedra-Papel-Tesoura)  
 [Código](https://github.com/julianoacs/Exercicios/blob/main/Exercicios/031/Main.java)
+
+- 031 - Crie um jogo onde o computador vai sortear um número entre 1 e 5 o jogador vai tentar descobrir qual foi o valor sorteado.    
+[Código](https://github.com/julianoacs/Exercicios/blob/main/Exercicios/032/Main.java)
