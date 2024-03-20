@@ -139,3 +139,6 @@ ESCALENO: todos os lados diferentes
 
 - 031 - Crie um jogo onde o computador vai sortear um número entre 1 e 5 o jogador vai tentar descobrir qual foi o valor sorteado.    
 [Código](https://github.com/julianoacs/Exercicios/blob/main/Exercicios/032/Main.java)
+
+- 033 - Escreva um programa para aprovar ou não o empréstimo bancário para a compra de uma casa. O programa vai perguntar o valor da casa, o salário do comprador e em quantos anos ele vai pagar. Calcule o valor da prestação mensal, sabendo que ela não pode exceder 30% do salário ou então o empréstimo será negado.    
+[Código](https://github.com/julianoacs/Exercicios/blob/main/Exercicios/033/Main.java)
