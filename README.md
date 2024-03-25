@@ -142,3 +142,12 @@ ESCALENO: todos os lados diferentes
 
 - 033 - Escreva um programa para aprovar ou não o empréstimo bancário para a compra de uma casa. O programa vai perguntar o valor da casa, o salário do comprador e em quantos anos ele vai pagar. Calcule o valor da prestação mensal, sabendo que ela não pode exceder 30% do salário ou então o empréstimo será negado.    
 [Código](https://github.com/julianoacs/Exercicios/blob/main/Exercicios/033/Main.java)
+
+- 034 - O Índice de Massa Corpórea (IMC) é um valor calculado baseado na altura e no peso de uma pessoa. De acordo com o valor do IMC, podemos classificar o indivíduo dentro de certas faixas.  
+abaixo de 18.5: Abaixo do peso  
+entre 18.5 e 25: Peso ideal  
+entre 25 e 30: Sobrepeso  
+entre 30 e 40: Obesidade  
+acima de 40: Obseidade mórbida  
+Obs: O IMC é calculado pela expressão peso/altura2 (peso dividido pelo quadrado da altura)  
+[Código](https://github.com/julianoacs/Exercicios/blob/main/Exercicios/034/Main.java) 
