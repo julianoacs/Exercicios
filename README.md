@@ -178,3 +178,7 @@ mais de 30 anos de empresa: +25%
 - 038 - Escreva um programa que mostre na tela a seguinte contagem:  
 EX: 6 7 8 9 10 11 Acabou!    
 [Código](https://github.com/julianoacs/Exercicios/blob/main/Exercicios/038/Main.java) 
+
+- 039 Faça um algoritmo que mostre na tela a seguinte contagem:    
+EX: 10 9 8 7 6 5 4 3 Acabou!  
+[Código](https://github.com/julianoacs/Exercicios/blob/main/Exercicios/039/Main.java) 
