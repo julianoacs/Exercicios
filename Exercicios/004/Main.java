@@ -8,8 +8,6 @@ public class Main {
         System.out.print("Digite o segundo valor: ");
         double numero2 = teclado.nextDouble();
         double resultado = numero1 + numero2;
-        System.out.println("A soma entre " + numero1 + " e " + numero2 + " e igual a " + resultado);
-        
+        System.out.println("A soma entre " + numero1 + " e " + numero2 + " e igual a " + resultado); 
     }
-
 }
