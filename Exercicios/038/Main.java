@@ -6,5 +6,6 @@ public class Main {
             contador++;
         }
         System.out.println(contador);
+        System.out.println("Acabou!");
     }
 }
