@@ -8,6 +8,5 @@ public class Main {
         double salarioHoras = 8 * 25;
         double salario = dias * salarioHoras;
         System.out.println("O salário é: " + salario);
-
     }
 }
