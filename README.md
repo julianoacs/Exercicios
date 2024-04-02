@@ -186,3 +186,8 @@ mais de 30 anos de empresa: +25%
 
 - 041 Desenvolva um programa que mostre na tela a seguinte contagem: 100 95 90 85 80 ... 0 Acabou!  
 [Código](https://github.com/julianoacs/Exercicios/blob/main/Exercicios/041/Main.java)
+
+- 042 - Faça um algoritmo que pergunte ao usuário um número inteiro e positivo qualquer e mostre uma contagem até esse valor:  
+Ex: Digite um valor: 35  
+Contagem: 1 2 3 4 5 6 7 ... 33 34 35 Acabou!  
+[Código](https://github.com/julianoacs/Exercicios/blob/main/Exercicios/042/Main.java)
