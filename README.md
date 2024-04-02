@@ -183,3 +183,6 @@ mais de 30 anos de empresa: +25%
 
 - 040 Crie um aplicativo que mostre na tela a seguinte contagem: 0 3 6 9 12 15 18 Acabou!  
 [Código](https://github.com/julianoacs/Exercicios/blob/main/Exercicios/040/Main.java)   
+
+- 041 Desenvolva um programa que mostre na tela a seguinte contagem: 100 95 90 85 80 ... 0 Acabou!  
+[Código](https://github.com/julianoacs/Exercicios/blob/main/Exercicios/041/Main.java)
