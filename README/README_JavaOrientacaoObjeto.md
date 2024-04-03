@@ -1,213 +1,125 @@
 <h3 align="center">Exercícios de JAVA</h3>
 <hr>
 
-- 001 - Escreva um programa que mostre na tela a mensagem "Olá, Mundo!"  
-[Código](https://github.com/julianoacs/Exercicios/blob/main/Exercicios/001/Main.java)
+- 051 - Crie uma classe Pessoa com um método que exibe "Olá, mundo!" no console.  
+[Código](https://github.com/julianoacs/Exercicios/blob/main/Exercicios/051/Main.java)
 
-- 002 - Faça um programa que leia o nome de uma pessoa e mostre uma mensagem de boas-vindas para ela:  
-Ex: Qual é o seu nome? João da Silva.  
-Olá João da Silva, é um prazer te conhecer!  
-[Código](https://github.com/julianoacs/Exercicios/blob/main/Exercicios/002/Main.java)
+- 052 - Crie uma classe Calculadora com um método que recebe um número como parâmetro e retorna o dobro desse número.  
+[Código](https://github.com/julianoacs/Exercicios/blob/main/Exercicios/052/Main.java)
 
-- 003 - Crie um programa que leia o nome e o salário de um funcionário, mostrando no final uma mensagem.  
-Ex: Nome do Funcionário: Maria do Carmo  
-Salário: 1850,45  
-O funcionário Maria do Carmo tem um salário de R$1850,45 em Junho.  
-[Código](https://github.com/julianoacs/Exercicios/blob/main/Exercicios/003/Main.java)
+- 053 - Crie uma classe Musica com atributos titulo, artista, anoLancamento, avaliacao e numAvaliacoes, e métodos para exibir a ficha técnica, avaliar a música e calcular a média de avaliações.  
+[Código](https://github.com/julianoacs/Exercicios/blob/main/Exercicios/053/Main.java)
 
-- 004 - Desenvolva um algoritmo que leia dois números inteiros e mostre o somatório entre eles.  
-Ex: Digite um valor: 8  
-Digite outro valor: 5  
-A soma entre 8 e 5 é igual a 13.  
-[Código](https://github.com/julianoacs/Exercicios/blob/main/Exercicios/004/Main.java)
+- 054 - Crie uma classe Carro com atributos modelo, ano, cor e métodos para exibir a ficha técnica e calcular a idade do carro.  
+[Código](https://github.com/julianoacs/Exercicios/blob/main/Exercicios/054/Main.java)
 
-- 005 - Faça um programa que leia as duas notas de um aluno em uma matéria e mostre na tela a sua média na disciplina.  
-Ex: Nota 1: 4.5  
-Nota 2: 8.5  
-A média entre 4.5 e 8.5 é igual a 6.5  
-[Código](https://github.com/julianoacs/Exercicios/blob/main/Exercicios/005/Main.java)
+- 055 - Crie uma classe Aluno com atributos nome, idade, e um método para exibir informações. Crie uma instância da classe Aluno, atribua valores aos seus atributos e utilize o método para exibir as informações.  
+[Código](https://github.com/julianoacs/Exercicios/blob/main/Exercicios/055/Main.java)
 
-- 006 - Faça um programa que leia um número inteiro e mostre o seu antecessor e seu sucessor.  
-Ex:
-Digite um número: 9  
-O antecessor de 9 é 8  
-O sucessor de 9 é 10   
-[Código](https://github.com/julianoacs/Exercicios/blob/main/Exercicios/006/Main.java)
+- 056 - Crie uma classe ContaBancaria com os seguintes atributos: numeroConta (privado), saldo (privado) e titular (publico). Implemente métodos getters e setters para os atributos privados.  
+[Código](https://github.com/julianoacs/Exercicios/blob/main/Exercicios/056/Main.java)
 
-- 007 - Crie um algoritmo que leia um número real e mostre na tela o seu dobro e a sua terça parte.  
-Ex: Digite um número: 3.5  
-O dobro de 3.5 é 7.0  
-A terça parte de 3.5 é 1.16666  
-[Código](https://github.com/julianoacs/Exercicios/blob/main/Exercicios/007/Main.java)
+- 057 - Crie uma classe idadePessoa com os atributos privados nome e idade. Utilize métodos getters e setters para acessar e modificar esses atributos. Adicione um método verificarIdade que imprime se a pessoa é maior de idade ou não.  
+[Código](https://github.com/julianoacs/Exercicios/blob/main/Exercicios/057/Main.java)
 
-- 008 - Desenvolva um programa que leia uma distância em metros e mostre os valores relativos em outras medidas.  
-Ex: Digite uma distância em metros: 185.72  
-E Mostre suas medidas correspondentes nas unidades de medidias, Melimetros, Centimetros, Kilometros e Milhas    
-[Código](https://github.com/julianoacs/Exercicios/blob/main/Exercicios/008/Main.java)
+- 058 - Desenvolva uma classe Produto com os atributos privados nome e preco. Utilize métodos getters e setters para acessar e modificar esses atributos. Adicione um método aplicarDesconto que recebe um valor percentual e reduz o preço do produto.  
+[Código](https://github.com/julianoacs/Exercicios/blob/main/Exercicios/058/Main.java)
 
-- 009 - Faça um algoritmo que leia quanto dinheiro uma pessoa tem na carteira (em R$) e mostre quantos dólares ela pode comprar.  
-[Código](https://github.com/julianoacs/Exercicios/blob/main/Exercicios/009/Main.java)
+- 059 - Desenvolva uma classe Aluno com os atributos privados nome e notas. Utilize métodos getters e setters para acessar e modificar esses atributos. Adicione um método calcularMedia que retorna a média das notas do aluno.  
+[Código](https://github.com/julianoacs/Exercicios/blob/main/Exercicios/059/Main.java)
 
-- 010 - Faça um algoritmo que leia a largura e altura de uma parede, calcule e mostre a área a ser pintada e a quantidade de tinta necessária para o serviço, sabendo que cada litro de tinta pinta uma área de 2metros quadrados.  
-[Código](https://github.com/julianoacs/Exercicios/blob/main/Exercicios/010/Main.java)
+- 060 - Desenvolva uma classe Livro com os atributos privados titulo e autor. Utilize métodos getters e setters para acessar e modificar esses atributos. Adicione um método exibirDetalhes que imprime o título e o autor do livro.  
+[Código](https://github.com/julianoacs/Exercicios/blob/main/Exercicios/060/Main.java)
 
-- 011 - Desenvolva uma lógica que leia os valores de A, B e C de uma equação do segundo grau e mostre o valor de Delta.  
-[Código](https://github.com/julianoacs/Exercicios/blob/main/Exercicios/011/Main.java)
+- 061 - Crie uma classe Carro com métodos para representar um modelo específico ao longo de três anos. Implemente métodos para definir o nome do modelo, os preços médios para cada ano, e calcular e exibir o menor e o maior preço. Adicione uma subclasse ModeloCarro para criar instâncias específicas, utilizando-a na classe principal para definir preços e mostrar informações.  
+[Código](https://github.com/julianoacs/Exercicios/blob/main/Exercicios/061/Main.java)
 
-- 012 - Crie um programa que leia o preço de um produto, calcule e mostre o seu PREÇO PROMOCIONAL, com 5% de desconto.  
-[Código](https://github.com/julianoacs/Exercicios/blob/main/Exercicios/012/Main.java)
+- 062 - Crie uma classe Animal com um método emitirSom(). Em seguida, crie duas subclasses: Cachorro e Gato, que herdam da classe Animal. Adicione o método emitirSom() nas subclasses, utilizando a anotação @Override para indicar que estão sobrescrevendo o método. Além disso, adicione métodos específicos para cada subclasse, como abanarRabo() para o Cachorro e arranharMoveis() para o Gato.  
+[Código](https://github.com/julianoacs/Exercicios/blob/main/Exercicios/062/Main.java)
 
-- 013 - Faça um algoritmo que leia o salário de um funcionário, calcule e mostre o seu novo salário, com 15% de aumento.  
-[Código](https://github.com/julianoacs/Exercicios/blob/main/Exercicios/013/Main.java)
+- 063 - Crie uma classe ContaBancaria com métodos para realizar operações bancárias como depositar(), sacar() e consultarSaldo(). Em seguida, crie uma subclasse ContaCorrente que herda da classe ContaBancaria. Adicione um método específico para a subclasse, como cobrarTarifaMensal(), que desconta uma tarifa mensal da conta corrente.  
+[Código](https://github.com/julianoacs/Exercicios/blob/main/Exercicios/063/Main.java)
 
-- 014 - A locadora de carros precisa da sua ajuda para cobrar seus serviços. Escreva um programa que pergunte a quantidade de Km percorridos por um carro alugado e a quantidade de dias pelos quais ele foi alugado. Calcule o preço total a pagar, sabendo que o carro custa R$90 por dia e R$0,20 por Km rodado.  
-[Código](https://github.com/julianoacs/Exercicios/blob/main/Exercicios/014/Main.java)
+- 064 - Crie uma classe NumerosPrimos com métodos como verificarPrimalidade() e listarPrimos(). Em seguida, crie duas subclasses, VerificadorPrimo e GeradorPrimo, que herdam da classe NumerosPrimos. Adicione um método específico para cada uma das subclasses, como verificarSeEhPrimo() para o VerificadorPrimo e gerarProximoPrimo() para o GeradorPrimo.  
+[Código](https://github.com/julianoacs/Exercicios/blob/main/Exercicios/064/Main.java)
 
-- 015 - Crie um programa que leia o número de dias trabalhados em um mês e mostre o salário de um funcionário, sabendo que ele trabalha 8 horas por dia e ganha R$25 por hora trabalhada.  
-[Código](https://github.com/julianoacs/Exercicios/blob/main/Exercicios/015/Main.java)
+- 065 - Crie uma classe ConversorMoeda que implementa uma interface ConversaoFinanceira com o método converterDolarParaReal() para converter um valor em dólar para reais. A classe deve receber o valor em dólar como parâmetro.  
+[Código](https://github.com/julianoacs/Exercicios/blob/main/Exercicios/065/Main.java)
 
-- 016 - Escreva um programa para calcular a redução do tempo de vida de um fumante. Pergunte a quantidade de cigarros fumados por dias e quantos anos ele já fumou. Considere que um fumante perde 10 min de vida a cada cigarro. Calcule quantos dias de vida um fumante perderá e exiba o total em dias.  
-[Código](https://github.com/julianoacs/Exercicios/blob/main/Exercicios/016/Main.java)
+- 066 - Crie uma classe CalculadoraSalaRetangular que implementa uma interface CalculoGeometrico com os métodos calcularArea() e calcularPerimetro() para calcular a área e o perímetro de uma sala retangular. A classe deve receber altura e largura como parâmetros.  
+[Código](https://github.com/julianoacs/Exercicios/blob/main/Exercicios/066/Main.java)
 
-- 017 - Escreva um programa que pergunte a velocidade de um carro. Caso ultrapasse 80Km/h, exiba uma mensagem dizendo que o usuário foi multado. Nesse caso, exiba o valor da multa, cobrando R$5 por cada Km acima da velocidade permitida.    
-[Código](https://github.com/julianoacs/Exercicios/blob/main/Exercicios/017/Main.java)
+- 067 - Crie uma classe TabuadaMultiplicacao que implementa uma interface Tabuada com o método mostrarTabuada() para exibir a tabuada de um número. A classe deve receber o número como parâmetro.  
+[Código](https://github.com/julianoacs/Exercicios/blob/main/Exercicios/067/Main.java)
 
-- 018 - Faça um programa que leia o ano de nascimento de uma pessoa, calcule a idade dela e depois mostre se ela pode ou não votar.  
-[Código](https://github.com/julianoacs/Exercicios/blob/main/Exercicios/018/Main.java)
+- 068 - Crie uma interface ConversorTemperatura com os métodos celsiusParaFahrenheit() e fahrenheitParaCelsius(). Implemente uma classe ConversorTemperaturaPadrao que implementa essa interface com as fórmulas de conversão e exibe os resultados.  
+[Código](https://github.com/julianoacs/Exercicios/blob/main/Exercicios/068/Main.java)
 
-- 019 - Crie um algoritmo que leia o nome e as duas notas de um aluno, calcule a sua média e mostre na tela. No final, analise a média e mostre se o aluno teve ou não um bom aproveitamento (se ficou acima da média 7.0).  
-[Código](https://github.com/julianoacs/Exercicios/blob/main/Exercicios/019/Main.java)
+- 069 - Crie uma interface Calculavel com um método double calcularPrecoFinal(). Implemente essa interface nas classes Livro e ProdutoFisico, cada uma retornando o preço final considerando descontos ou taxas adicionais.
+[Código](https://github.com/julianoacs/Exercicios/blob/main/Exercicios/069/Main.java)
 
-- 020 - Desenvolva um programa que leia um número inteiro e mostre se ele é PAR ou ÍMPAR.  
-[Código](https://github.com/julianoacs/Exercicios/blob/main/Exercicios/020/Main.java)
+- 070 - Crie uma interface Vendavel com métodos para calcular o preço total de um produto com base na quantidade comprada e aplicar descontos. Implemente essa interface nas classes Produto e Servico, cada uma fornecendo a sua própria lógica de cálculo de preço.  
+[Código](https://github.com/julianoacs/Exercicios/blob/main/Exercicios/070/Main.java)
 
-- 021 - Faça um algoritmo que leia um determinado ano e mostre se ele é ou não BISSEXTO.  
-[Código](https://github.com/julianoacs/Exercicios/blob/main/Exercicios/021/Main.java)
+- 071 - Crie uma classe Pessoa com atributos como nome, idade, e um método toString que represente esses atributos.  
+[Código](https://github.com/julianoacs/Exercicios/blob/main/Exercicios/071/Main.java)
 
-- 022 - Escreva um programa que leia o ano de nascimento de um rapaz e mostre a sua situação em relação ao alistamento militar.  
-Se estiver antes dos 18 anos, mostre em quantos anos faltam para o alistamento.  
-Se já tiver depois dos 18 anos, mostre quantos anos já se passaram do alistamento.  
-[Código](https://github.com/julianoacs/Exercicios/blob/main/Exercicios/022/Main.java)
+- 072 - No método main da classe Principal, crie um ArrayList de Pessoa chamado listaDePessoas.  
+[Código](https://github.com/julianoacs/Exercicios/blob/main/Exercicios/072/Main.java)
 
-- 023 - Numa promoção exclusiva para o Dia da Mulher, uma loja quer dar descontos para todos, mas especialmente para mulheres. Faça um programa que leia nome, sexo e o valor das compras do cliente e calcule o preço com desconto. Sabendo que:  
-Homens ganham 5% de desconto  
-Mulheres ganham 13% de desconto  
-[Código](https://github.com/julianoacs/Exercicios/blob/main/Exercicios/023/Main.java)
+- 073 - Adicione pelo menos três pessoas à lista utilizando o método add.
+[Código](https://github.com/julianoacs/Exercicios/blob/main/Exercicios/073/Main.java)
 
-- 024 - Faça um algoritmo que pergunte a distância que um passageiro deseja percorrer em Km. Calcule o preço da passagem, cobrando R$0.50 por Km para viagens até 200Km e R$0.45 para viagens mais longas.  
-[Código](https://github.com/julianoacs/Exercicios/blob/main/Exercicios/024/Main.java)
+- 074 - Imprima o tamanho da lista utilizando o método size.  
+[Código](https://github.com/julianoacs/Exercicios/blob/main/Exercicios/074/Main.java)
 
-- 025 - Crie um programa que leia o tamanho de três segmentos de reta. Analise seus comprimentos e diga se é possível formar um triângulo com essas retas. Matematicamente, para três segmentos formarem um triângulo, o comprimento de cada lado deve ser menor que a soma dos outros dois.  
-[Código](https://github.com/julianoacs/Exercicios/blob/main/Exercicios/025/Main.java)
+- 075 - Imprima a primeira pessoa da lista utilizando o método get.  
+[Código](https://github.com/julianoacs/Exercicios/blob/main/Exercicios/075/Main.java)
 
-- 026 - Escreva um algoritmo que leia dois números inteiros e compare-os, mostrando na tela uma das mensagens abaixo:  
-O primeiro valor é o maior  
-O segundo valor é o maior  
-Não existe valor maior, os dois são iguais  
-[Código](https://github.com/julianoacs/Exercicios/blob/main/Exercicios/026/Main.java)
+- 076 - Imprima a lista completa
+[Código](https://github.com/julianoacs/Exercicios/blob/main/Exercicios/076/Main.java)
 
-- 027 - Crie um programa que leia duas notas de um aluno e calcule a sua média, mostrando uma mensagem no final, de acordo com a média atingida:  
-Média até 4.9: REPROVADO  
-Média entre 5.0 e 6.9: RECUPERAÇÃO  
-Média 7.0 ou superior: APROVADO  
-[Código](https://github.com/julianoacs/Exercicios/blob/main/Exercicios/027/Main.java)
+- 077 - Crie uma classe Produto com atributos como nome, preco, e quantidade. Em seguida, crie uma lista de objetos Produto utilizando a classe ArrayList. Adicione alguns produtos, imprima o tamanho da lista e recupere um produto pelo índice.  
+[Código](https://github.com/julianoacs/Exercicios/blob/main/Exercicios/077/Main.java)
 
-- 028 - Faça um programa que leia a largura e o comprimento de um terreno retangular, calculando e mostrando a sua área em m2. O programa também devemostrar a classificação desse terreno, de acordo com a lista abaixo:  
-Abaixo de 100m2 = TERRENO POPULAR  
-Entre 100m2 e 500m2 = TERRENO MASTER  
-Acima de 500m2 = TERRENO VIP  
-[Código](https://github.com/julianoacs/Exercicios/blob/main/Exercicios/028/Main.java)
+- 078 - Implemente o método toString() na classe Produto para retornar uma representação em texto do objeto. Em seguida, imprima a lista de produtos utilizando o método System.out.println().  
+[Código](https://github.com/julianoacs/Exercicios/blob/main/Exercicios/078/Main.java)
 
-- 029 -Desenvolva um programa que leia o nome de um funcionário, seu salário, quantos anos ele trabalha na empresa e mostre seu novo salário, reajustado de acordo com a tabela a seguir:  
-Até 3 anos de empresa: aumento de 3%  
-entre 3 e 10 anos: aumento de 12.5%  
-10 anos ou mais: aumento de 20%  
-[Código](https://github.com/julianoacs/Exercicios/blob/main/Exercicios/029/Main.java)
+- 079 - Modifique a classe Produto para incluir um construtor que aceite parâmetros para inicializar os atributos. Em seguida, crie objetos Produto utilizando esse novo construtor.  
+[Código](https://github.com/julianoacs/Exercicios/blob/main/Exercicios/079/Main.java)
 
-- 030 - Refaça o algoritmo 25, acrescentando o recurso de mostrar que tipo de triângulo será formado:  
-EQUILÁTERO: todos os lados iguais  
-ISÓSCELES: dois lados iguais  
-ESCALENO: todos os lados diferentes  
-[Código](https://github.com/julianoacs/Exercicios/blob/main/Exercicios/030/Main.java)
+- 080 - Crie uma classe ProdutoPerecivel que herde de Produto. Adicione um atributo dataValidade e um construtor que utilize o construtor da classe mãe (super) para inicializar os atributos herdados. Crie um objeto ProdutoPerecivel e imprima seus valores.  
+[Código](https://github.com/julianoacs/Exercicios/blob/main/Exercicios/080/Main.java)
 
-- 031 - Crie um jogo de JoKenPo (Pedra-Papel-Tesoura)  
-[Código](https://github.com/julianoacs/Exercicios/blob/main/Exercicios/031/Main.java)
+- 081 - Crie um ArrayList de strings e utilize um loop foreach para percorrer e imprimir cada elemento da lista.  
+[Código](https://github.com/julianoacs/Exercicios/blob/main/Exercicios/081/Main.java)
 
-- 031 - Crie um jogo onde o computador vai sortear um número entre 1 e 5 o jogador vai tentar descobrir qual foi o valor sorteado.    
-[Código](https://github.com/julianoacs/Exercicios/blob/main/Exercicios/032/Main.java)
+- 082 - Crie uma classe Animal e uma classe Cachorro que herda de Animal. Em seguida, crie um objeto da classe Cachorro e faça o casting para a classe Animal.  
+[Código](https://github.com/julianoacs/Exercicios/blob/main/Exercicios/082/Main.java)
 
-- 033 - Escreva um programa para aprovar ou não o empréstimo bancário para a compra de uma casa. O programa vai perguntar o valor da casa, o salário do comprador e em quantos anos ele vai pagar. Calcule o valor da prestação mensal, sabendo que ela não pode exceder 30% do salário ou então o empréstimo será negado.    
-[Código](https://github.com/julianoacs/Exercicios/blob/main/Exercicios/033/Main.java)
+- 083 - Modifique o Exercício 082 para incluir uma verificação usando instanceof para garantir que o objeto seja do tipo correto antes de fazer o casting.  
+[Código](https://github.com/julianoacs/Exercicios/blob/main/Exercicios/083/Main.java)
 
-- 034 - O Índice de Massa Corpórea (IMC) é um valor calculado baseado na altura e no peso de uma pessoa. De acordo com o valor do IMC, podemos classificar o indivíduo dentro de certas faixas.  
-abaixo de 18.5: Abaixo do peso  
-entre 18.5 e 25: Peso ideal  
-entre 25 e 30: Sobrepeso  
-entre 30 e 40: Obesidade  
-acima de 40: Obseidade mórbida  
-Obs: O IMC é calculado pela expressão peso/altura2 (peso dividido pelo quadrado da altura)  
-[Código](https://github.com/julianoacs/Exercicios/blob/main/Exercicios/034/Main.java) 
+- 084 - Crie uma classe Produto com propriedades como nome e preço. Em seguida, crie uma lista de produtos e utilize um loop para calcular e imprimir o preço médio dos produtos.  
+[Código](https://github.com/julianoacs/Exercicios/blob/main/Exercicios/084/Main.java)
 
-- 035 - Uma empresa de aluguel de carros precisa cobrar pelos seus serviços. O aluguel de um carro custa R$90 por dia para carro popular e R$150 por dia para carro de luxo. Além disso, o cliente paga por Km percorrido. Faça um programa que leia o tipo de carro alugado (popular ou luxo), quantos dias de aluguel e quantos Km foram percorridos. No final mostre o preço a ser pago de acordo com a tabela a seguir:  
-Carros populares (aluguel de R$90 por dia)  
-Até 100Km percorridos: R$0,20 por Km  
-Acima de 100Km percorridos: R$0,10 por Km  
-Carros de luxo (aluguel de R$150 por dia)  
-Até 200Km percorridos: R$0,30 por Km  
-Acima de 200Km percorridos: R$0,25 por Km  
-[Código](https://github.com/julianoacs/Exercicios/blob/main/Exercicios/035/Main.java) 
+- 085 - Crie uma interface Forma com um método calcularArea(). Implemente a interface em duas classes, por exemplo, Circulo e Quadrado. Em seguida, crie uma lista de formas (objetos da interface Forma) e utilize um loop para calcular e imprimir a área de cada forma.  
+[Código](https://github.com/julianoacs/Exercicios/blob/main/Exercicios/085/Main.java)
 
-- 036 - Um programa de vida saudável quer dar pontos atividades físicas que podem ser trocados por dinheiro. O sistema funciona assim: Cada hora de atividade física no mês vale pontos    
-até 10h de atividade no mês: ganha 2 pontos por hora  
-de 10h até 20h de atividade no mês: ganha 5 pontos por hora  
-acima de 20h de atividade no mês: ganha 10 pontos por hora  
-A cada ponto ganho, o cliente fatura R$0,05 (5 centavos)  
-[Código](https://github.com/julianoacs/Exercicios/blob/main/Exercicios/036/Main.java)  
+- 086 - Crie uma classe ContaBancaria com propriedades como número da conta e saldo. Em seguida, crie uma lista de contas bancárias com diferentes saldos. Utilize um loop para encontrar e imprimir a conta com o maior saldo.  
+[Código](https://github.com/julianoacs/Exercicios/blob/main/Exercicios/086/Main.java)
 
-- 037 - Uma empresa precisa reajustar o salário dos seus funcionários, dando um aumento de acordo com alguns fatores. Faça um programa que leia o salário atual, o gênero do funcionário e há quantos anos esse funcionário trabalha na empresa. No final, mostre o seu novo salário, baseado na tabela a seguir:  
-Mulheres  
-menos de 15 anos de empresa: +5%  
-de 15 até 20 anos de empresa: +12%  
-mais de 20 anos de empresa: +23%  
-Homens  
-menos de 20 anos de empresa: +3%  
-de 20 até 30 anos de empresa: +13%  
-mais de 30 anos de empresa: +25%  
-[Código](https://github.com/julianoacs/Exercicios/blob/main/Exercicios/037/Main.java)  
+- 087 - Crie uma lista de números inteiros e utilize o método Collections.sort para ordená-la em ordem crescente. Em seguida, imprima a lista ordenada.  
+[Código](https://github.com/julianoacs/Exercicios/blob/main/Exercicios/087/Main.java)
 
-- 038 - Escreva um programa que mostre na tela a seguinte contagem: 6 7 8 9 10 11 Acabou!    
-[Código](https://github.com/julianoacs/Exercicios/blob/main/Exercicios/038/Main.java) 
+- 088 - Crie uma classe Titulo com um atributo nome do tipo String. Implemente a interface Comparable na classe para que seja possível ordenar uma lista de objetos Titulo.  
+[Código](https://github.com/julianoacs/Exercicios/blob/main/Exercicios/088/Main.java)
 
-- 039 Faça um algoritmo que mostre na tela a seguinte contagem: 10 9 8 7 6 5 4 3 Acabou!    
-[Código](https://github.com/julianoacs/Exercicios/blob/main/Exercicios/039/Main.java) 
+- 089 - No Exercício 088, crie alguns objetos da classe Titulo e adicione-os a uma lista. Utilize o método Collections.sort para ordenar a lista e, em seguida, imprima os títulos ordenados.  
+[Código](https://github.com/julianoacs/Exercicios/blob/main/Exercicios/089/Main.java)
 
-- 040 Crie um aplicativo que mostre na tela a seguinte contagem: 0 3 6 9 12 15 18 Acabou!  
-[Código](https://github.com/julianoacs/Exercicios/blob/main/Exercicios/040/Main.java)   
+- 090 - Crie uma lista utilizando a interface List e instancie-a tanto como ArrayList quanto como LinkedList. Adicione elementos e imprima a lista, mostrando que é possível trocar facilmente a implementação.  
+[Código](https://github.com/julianoacs/Exercicios/blob/main/Exercicios/090/Main.java)
 
-- 041 Desenvolva um programa que mostre na tela a seguinte contagem: 100 95 90 85 80 ... 0 Acabou!  
-[Código](https://github.com/julianoacs/Exercicios/blob/main/Exercicios/041/Main.java)
-
-- 042 - Faça um algoritmo que pergunte ao usuário um número inteiro e positivo qualquer e mostre uma contagem até esse valor:  
-Ex: Digite um valor: 35  
-Contagem: 1 2 3 4 5 6 7 ... 33 34 35 Acabou!  
-[Código](https://github.com/julianoacs/Exercicios/blob/main/Exercicios/042/Main.java)
-
-- 043 - Desenvolva um algoritmo que mostre uma contagem regressiva de 30 até 1, marcando os números que forem divisíveis por 4, exatamente como mostrado abaixo:  
-30 29 [28] 27 26 25 [24] 23 22 21 [20] 19 18 17 [16]...  
-[Código](https://github.com/julianoacs/Exercicios/blob/main/Exercicios/043/Main.java)
-
-- 044 - Crie um algoritmo que leia o valor inicial da contagem, o valor final e o incremento, mostrando em seguida todos os valores no intervalo:  
-Ex: Digite o primeiro Valor: 3  
-Digite o último Valor: 10  
-Digite o incremento: 2  
-Contagem: 3 5 7 9 Acabou!  
-[Código](https://github.com/julianoacs/Exercicios/blob/main/Exercicios/044/Main.java)
-
-- 045 - O programa acima vai ter um problema quando digitarmos o primeiro valor maior que o último. Resolva esse problema com um código que funcione em qualquer situação.  
-[Código](https://github.com/julianoacs/Exercicios/blob/main/Exercicios/045/Main.java)
-
-- 046 - Crie um programa que calcule e mostre na tela o resultado da soma entre 6 + 8 + 10 + 12 + 14 + ... + 98 + 100.  
-[Código](https://github.com/julianoacs/Exercicios/blob/main/Exercicios/046/Main.java)
-
-- 047 - Desenvolva um aplicativo que mostre na tela o resultado da expressão 500 + 450 + 400 + 350 + 300 + ... + 50 + 0  
-[Código](https://github.com/julianoacs/Exercicios/blob/main/Exercicios/047/Main.java) 
+- 091 - Modifique o Exercício 090 para declarar a variável de lista como a interface List, demonstrando o uso de polimorfismo.
+[Código](https://github.com/julianoacs/Exercicios/blob/main/Exercicios/091/Main.java)
