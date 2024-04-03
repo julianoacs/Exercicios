@@ -1,4 +1,4 @@
-<h3 align="center">Exercícios de JAVA</h3>
+<h3 align="center">Exercícios de JAVA - Orientação a objeto</h3>
 <hr>
 
 - 051 - Crie uma classe Pessoa com um método que exibe "Olá, mundo!" no console.  
