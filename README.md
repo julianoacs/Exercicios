@@ -210,4 +210,13 @@ Contagem: 3 5 7 9 Acabou!
 [Código](https://github.com/julianoacs/Exercicios/blob/main/Exercicios/046/Main.java)
 
 - 047 - Desenvolva um aplicativo que mostre na tela o resultado da expressão 500 + 450 + 400 + 350 + 300 + ... + 50 + 0  
-[Código](https://github.com/julianoacs/Exercicios/blob/main/Exercicios/047/Main.java) 
+[Código](https://github.com/julianoacs/Exercicios/blob/main/Exercicios/047/Main.java)
+
+- 048 - Faça um programa que leia 7 números inteiros e no final mostre o somatório entre eles.  
+[Código](https://github.com/julianoacs/Exercicios/blob/main/Exercicios/048/Main.java)
+
+- 049 - Crie um programa que leia 6 números inteiros e no final mostre quantos deles são pares e quantos são ímpares.  
+[Código](https://github.com/julianoacs/Exercicios/blob/main/Exercicios/049/Main.java)
+
+- 051 - Faça um aplicativo que leia o preço de 8 produtos. No final, mostre na tela qual foi o maior e qual foi o menor preço digitados.
+[Código](https://github.com/julianoacs/Exercicios/blob/main/Exercicios/050/Main.java)
