@@ -55,7 +55,7 @@
 - 068 - Crie uma interface ConversorTemperatura com os métodos celsiusParaFahrenheit() e fahrenheitParaCelsius(). Implemente uma classe ConversorTemperaturaPadrao que implementa essa interface com as fórmulas de conversão e exibe os resultados.  
 [Código](https://github.com/julianoacs/Exercicios/blob/main/Exercicios/068/Main.java)
 
-- 069 - Crie uma interface Calculavel com um método double calcularPrecoFinal(). Implemente essa interface nas classes Livro e ProdutoFisico, cada uma retornando o preço final considerando descontos ou taxas adicionais.
+- 069 - Crie uma interface Calculavel com um método double calcularPrecoFinal(). Implemente essa interface nas classes Livro e ProdutoFisico, cada uma retornando o preço final considerando descontos ou taxas adicionais.  
 [Código](https://github.com/julianoacs/Exercicios/blob/main/Exercicios/069/Main.java)
 
 - 070 - Crie uma interface Vendavel com métodos para calcular o preço total de um produto com base na quantidade comprada e aplicar descontos. Implemente essa interface nas classes Produto e Servico, cada uma fornecendo a sua própria lógica de cálculo de preço.  
@@ -67,7 +67,7 @@
 - 072 - No método main da classe Principal, crie um ArrayList de Pessoa chamado listaDePessoas.  
 [Código](https://github.com/julianoacs/Exercicios/blob/main/Exercicios/072/Main.java)
 
-- 073 - Adicione pelo menos três pessoas à lista utilizando o método add.
+- 073 - Adicione pelo menos três pessoas à lista utilizando o método add.  
 [Código](https://github.com/julianoacs/Exercicios/blob/main/Exercicios/073/Main.java)
 
 - 074 - Imprima o tamanho da lista utilizando o método size.  
@@ -76,7 +76,7 @@
 - 075 - Imprima a primeira pessoa da lista utilizando o método get.  
 [Código](https://github.com/julianoacs/Exercicios/blob/main/Exercicios/075/Main.java)
 
-- 076 - Imprima a lista completa
+- 076 - Imprima a lista completa  
 [Código](https://github.com/julianoacs/Exercicios/blob/main/Exercicios/076/Main.java)
 
 - 077 - Crie uma classe Produto com atributos como nome, preco, e quantidade. Em seguida, crie uma lista de objetos Produto utilizando a classe ArrayList. Adicione alguns produtos, imprima o tamanho da lista e recupere um produto pelo índice.  
