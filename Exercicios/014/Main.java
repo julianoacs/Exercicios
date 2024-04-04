@@ -3,7 +3,6 @@ import java.util.Scanner;
 public class Main {
     public static void main(String[] args) {
         Scanner teclado = new Scanner(System.in);
-        // Sistema de locadora de Veiculos
         System.out.print("Dias com carro alugado: ");
         int dias = teclado.nextInt();
         System.out.print("KM rodados: ");
