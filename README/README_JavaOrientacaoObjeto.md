@@ -2,7 +2,7 @@
 <hr>
 
 - 051 - Crie uma classe Pessoa com um método que exibe "Olá, mundo!" no console.  
-[Código](https://github.com/julianoacs/Exercicios/blob/main/Exercicios/051/Main.java)
+[Código](https://github.com/julianoacs/Exercicios/blob/main/Exercicios/051)
 
 - 052 - Crie uma classe Calculadora com um método que recebe um número como parâmetro e retorna o dobro desse número.  
 [Código](https://github.com/julianoacs/Exercicios/blob/main/Exercicios/052/Main.java)
