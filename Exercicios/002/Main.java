@@ -6,6 +6,6 @@ public class Main {
         System.out.println("--- Bem Vindo ---");
         System.out.println("Digite seu nome:");
         String nome = teclado.nextLine();
-        System.out.println("Ola " + nome + ", e um prazer te conhecer!");
+        System.out.println("Ola, seja muito bem vindo " + nome + ", é um prazer te conhecer!");
     }
 }
