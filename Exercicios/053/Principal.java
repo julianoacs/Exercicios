@@ -5,9 +5,9 @@ public class Principal {
         musica.artista = "Ice Cube";
         musica.anoDeLancamento = 1992;
 
-        musica.avalia(8);
-        musica.avalia(5);
-        musica.avalia(9);
+        musica.avaliacoes(8);
+        musica.avaliacoes(5);
+        musica.avaliacoes(9);
 
         musica.exibeFichaTecnica();
     }
