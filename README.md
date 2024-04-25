@@ -2,7 +2,7 @@
 <hr>  
 
 - Lista de exercícios básicos em Java.  
-[LISTA](https://github.com/julianoacs/Exercicios/blob/main/README/README_JavaBasico.md)
+[Exercícios](https://github.com/julianoacs/Exercicios/blob/main/README/README_JavaBasico.md)
   
 - Lista de exercícios intermediário em Java com Orientação a objeto.  
-[LISTA](https://github.com/julianoacs/Exercicios/blob/main/README/README_JavaOrientacaoObjeto.md)
+[Exercícios](https://github.com/julianoacs/Exercicios/blob/main/README/README_JavaOrientacaoObjeto.md)
