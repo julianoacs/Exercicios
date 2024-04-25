@@ -1,14 +1,10 @@
 public class Principal {
     public static void main(String[] args) {
-        Musica musica = new Musica();
-        musica.titulo = "It was a Good Day";
-        musica.artista = "Ice Cube";
-        musica.anoDeLancamento = 1992;
+        Carro carro = new Carro();
+        carro.modeloDoCarro = "Fiesta";
+        carro.anoDoCarro = 2010;
+        carro.corDoCarro = "Preto";
 
-        musica.avalia(8);
-        musica.avalia(5);
-        musica.avalia(9);
-
-        musica.exibeFichaTecnica();
+        carro.exibirFichaTecnica();
     }
 }
