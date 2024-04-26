@@ -7,7 +7,7 @@ public class Main {
         double numero = teclado.nextDouble();
         double num1 = numero + numero;
         double num2 = numero / 3;
-        System.out.println("O dobro de " + numero + " e " + num1);
-        System.out.println("A terça parte de " + numero + " e " + num2);
+        System.out.println("O dobro de " + numero + " é igual a" + num1);
+        System.out.println("Um terço de " + numero + " é igual a" + num2);
     }
 }
