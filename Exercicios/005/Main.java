@@ -10,10 +10,10 @@ public class Main {
         System.out.print("Nota 2: ");
         double nota2 = teclado.nextDouble();
     
-        double media = (nota1 + nota2) / 2;
+        double mediaNotas = (nota1 + nota2) / 2;
 
         System.out.println("Media do Aluno(a)");
         System.out.println("Aluno: " + aluno);
-        System.out.println("Media: " + media);
+        System.out.println("Media: " + mediaNotas );
     }
 }
