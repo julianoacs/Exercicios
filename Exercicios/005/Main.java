@@ -14,6 +14,6 @@ public class Main {
 
         System.out.println("Media do Aluno(a)");
         System.out.println("Aluno: " + aluno);
-        System.out.println("Media: " + mediaNotas );
+        System.out.println("Media: " + mediaNotas);
     }
 }
