@@ -7,6 +7,5 @@ public class Principal {
         conta.setSaldo(10000);
 
         conta.exibirInformacoes();
-
     }
 }
