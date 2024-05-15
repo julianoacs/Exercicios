@@ -6,7 +6,7 @@ public class Principal {
         produto1.setDesconto(10);
 
         Produto produto2 = new Produto();
-        produto2.setNome("Iphone");
+        produto2.setNome("Celular");
         produto2.setPreco(1500);
         produto2.setDesconto(10);
 
