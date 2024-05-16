@@ -45,6 +45,6 @@ public class Aluno {
         System.out.println("Nota1: " + this.nota1);
         System.out.println("Nota2: " + this.nota2);
         System.out.println("Nota3: " + this.nota3);
-        System.out.println("Media: " + calculadoraMedia());
+        System.out.println("Media : " + calculadoraMedia());
     }
 }
