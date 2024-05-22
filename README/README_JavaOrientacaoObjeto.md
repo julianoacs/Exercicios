@@ -145,6 +145,8 @@
 - 098 - Implemente uma classe chamada “ContaBancária” que possua atributos para armazenar o número da conta, nome do titular e saldo. Adicione métodos para realizar depósitos e saques.  
 [Código](https://github.com/julianoacs/Exercicios/blob/main/Exercicios/098)
 
+- 099 -
+- 100 -
 - 099 - Crie uma classe chamada “Círculo” que possua um atributo para armazenar o raio e métodos para calcular a área e o perímetro do círculo.  
 [Código](https://github.com/julianoacs/Exercicios/blob/main/Exercicios/099)
 
