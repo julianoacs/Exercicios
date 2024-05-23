@@ -12,7 +12,7 @@ public class Main {
         double nota2 = teclado.nextDouble();
         double media = (nota1 + nota2)/2;
         if (media <= 4.9) {
-            System.out.println("Aluno: " + nome );
+            System.out.println("Aluno: " + nome);
             System.out.println("Media: " + media);
             System.out.println("Status: REPROVADO");
         } else if ((media >= 5) && (media <= 6.9)){
