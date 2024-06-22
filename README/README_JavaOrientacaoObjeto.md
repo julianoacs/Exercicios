@@ -121,7 +121,7 @@
 - 090 - Crie uma lista utilizando a interface List e instancie-a tanto como ArrayList quanto como LinkedList. Adicione elementos e imprima a lista, mostrando que é possível trocar facilmente a implementação.  
 [Código](https://github.com/julianoacs/Exercicios/blob/main/Exercicios/090)
 
-- 091 - Modifique o Exercício 090 para declarar a variável de lista como a interface List, demonstrando o uso de polimorfismo.
+- 091 - Modifique o Exercício 090 para declarar a variável de lista como a interface List, demonstrando o uso de polimorfismo.  
 [Código](https://github.com/julianoacs/Exercicios/blob/main/Exercicios/091)
 
 - 092 - Crie uma classe chamada “Paciente” que possua atributos para armazenar o nome, a idade e o histórico de consultas de um paciente. Implemente métodos para adicionar uma nova consulta ao histórico e exibir as consultas realizadas.  
