@@ -1,5 +1,5 @@
-## Listas de Exercícios em Java
----
+# Listas de Exercícios em Java
+
 Bem-vindo ao repositório que contém uma coleção de exercícios em Java projetados para aprimorar suas habilidades de programação. Este repositório está dividido em três seções principais:
 
 * Exercícios Básicos em Java - [Exercícios](https://github.com/julianoacs/Exercicios/blob/main/README/README_JavaBasico.md)
