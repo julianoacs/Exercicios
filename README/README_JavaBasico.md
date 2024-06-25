@@ -1,17 +1,15 @@
-<h3 align="center">Exercícios de JAVA</h3>
-<hr>
+<h2 align="center">Exercícios de JAVA</h2>
 
-- 001 - Escreva um programa que mostre na tela a mensagem "Olá, Mundo!"  
+- 001 - Escreva um programa que mostre na tela a mensagem "Hello, World!"  
 [Código](https://github.com/julianoacs/Exercicios/blob/main/Exercicios/001/Main.java)
 
-- 002 - Faça um programa que leia o nome de uma pessoa e mostre uma mensagem de boas-vindas para ela:  
+- 002 - Faça um programa que leia o nome de uma pessoa e mostre uma mensagem de boas-vindas para ela.  
 Ex: Qual é o seu nome? João da Silva.  
 Olá João da Silva, é um prazer te conhecer!  
 [Código](https://github.com/julianoacs/Exercicios/blob/main/Exercicios/002/Main.java)
 
 - 003 - Crie um programa que leia o nome e o salário de um funcionário, mostrando no final uma mensagem.  
-Ex: Nome do Funcionário: Maria do Carmo  
-Salário: 1850,45  
+Ex: Nome do Funcionário: Maria do Carmo, Salário: 1850,45  
 O funcionário Maria do Carmo tem um salário de R$1850,45 em Junho.  
 [Código](https://github.com/julianoacs/Exercicios/blob/main/Exercicios/003/Main.java)
 
