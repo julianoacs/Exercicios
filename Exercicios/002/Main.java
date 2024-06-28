@@ -1,5 +1,4 @@
-// Import da classe Scanner, usado para ler entradas do usuário a partir do teclado ou de outras fontes de entrada.
-import java.util.Scanner;
+import java.util.Scanner; // Import da classe Scanner, usado para ler entradas do usuário a partir do teclado ou de outras fontes de entrada.
 
 public class Main {
     public static void main(String[] args) {
