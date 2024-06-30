@@ -1,4 +1,4 @@
-import java.util.Scanner; // Importa a classe Scanner para ler a entrada do usuário
+import java.util.Scanner; // Importa a classe Scanner para ler a entrada do usuário.
 
 public class Main {
     public static void main(String[] args) {
@@ -17,7 +17,7 @@ public class Main {
         // Calcula a soma dos dois números e armazena o resultado na variável resultado.
         double resultado = numero1 + numero2;
 
-        // Exibe o resultado da soma
+        // Exibe o resultado da soma.
         System.out.println("A soma entre " + numero1 + " e " + numero2 + " e igual a " + resultado); 
     }
 }
