@@ -22,5 +22,8 @@ public class Main {
 
         // Exibe o nome do usuário, o salário e o mês atual.
         System.out.println("O funcionario " + nome + " tem um salário de R$ " + salario + " em " + mesAtual);
+
+        // Fecha o Scanner para liberar recursos
+        teclado.close();
     }
 }
