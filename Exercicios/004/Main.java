@@ -19,5 +19,8 @@ public class Main {
 
         // Exibe o resultado da soma.
         System.out.println("A soma entre " + numero1 + " e " + numero2 + " e igual a " + resultado); 
+
+        // Fecha o Scanner para liberar recursos
+        teclado.close();
     }
 }
