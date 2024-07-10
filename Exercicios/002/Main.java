@@ -15,7 +15,7 @@ public class Main {
         // Método para imprimir a mensagem fornecida, concatenada com o nome inserido pelo usuário
         System.out.println("Ola, seja muito bem vindo " + nome + ", é um prazer te conhecer!");
 
-        // Fechamento do objeto 'scanner'
+        // Fecha o Scanner para liberar recursos
         teclado.close();
     }
 }
